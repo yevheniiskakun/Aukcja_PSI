@@ -1,0 +1,112 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Aukcja",
+	"ownedElements": [
+		{
+			"_type": "FCFlowchart",
+			"_id": "AAAAAAF8jh2IfKhLE7s=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model funkcjonalny ",
+			"ownedElements": [
+				{
+					"_type": "FCFlowchartDiagram",
+					"_id": "AAAAAAF8jh2IfahMlhs=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Diagram FHD ",
+					"ownedViews": [
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jk3ixqhZxn0=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jk3ixqhXLrw="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jk3ixqhaXvc=",
+									"_parent": {
+										"$ref": "AAAAAAF8jk3ixqhZxn0="
+									},
+									"font": "Arial;13;0",
+									"left": 570,
+									"top": 90,
+									"width": 54.18994140625,
+									"height": 13,
+									"text": "Aukcja",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 560,
+							"top": 80,
+							"width": 74.18994140625,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jk3ixqhaXvc="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jk4MNqhjCUM=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jk4MNqhhUc8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jk4MNqhkqKo=",
+									"_parent": {
+										"$ref": "AAAAAAF8jk4MNqhjCUM="
+									},
+									"font": "Arial;13;0",
+									"left": 274,
+									"top": 274,
+									"width": 54.18994140625,
+									"height": 13,
+									"text": "Procesy ",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 264,
+							"top": 264,
+							"width": 74.18994140625,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jk4MNqhkqKo="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jk3ixqhXLrw=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Aukcja"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jk4MNqhhUc8=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Procesy "
+				}
+			]
+		}
+	],
+	"documentation": "Dom Aukcyjny postanowił usprawnić swoja działalność poprzez wprowadzenie systemu komputerowego. System ten ma ułatwić prowadzenie ewidencji pracowników, klientów Domu i aukcji, które się odbyły, jak również wszystkich zgłoszonych do licytacji przedmiotów i dóbr (tzw. depozytów).\n\nSystem ma przechowywać daty i adresy wszystkich aukcji, które prowadził Dom. Zapamiętuje się, który pracownik prowadził licytacje (otrzymuje on za to dodatkowa, jednorazową premie, nie większą niż 50% zasadniczego wynagrodzenia) oraz wszystkich pracowników, którzy go wspomagali (zawsze przynajmniej jedna osoba, np.: przy demonstracji depozytów lub udzielaniu wyjaśnień).\n\nNa aukcji dokonuje się licytacji jednego lub więcej zgłoszonych depozytów. Dom Aukcyjny prowadzi aukcje dowolnego rodzaju dóbr. Choć zazwyczaj są to dzieła sztuki. Z punktu widzenia Domu najważniejsza jest wartość prowizji, jaką otrzyma po udanej sprzedaży. Zapamiętywany jest również klient, który zgłosił przedmiot do licytacji, wartość depozytu (podana przez klienta na wypadek np.: kradzieży lub zniszczenia, w celu wypłaty odszkodowania) oraz jego cena wywoławcza. W przypadku braku chętnych na depozyt może on być wystawiany wielokrotnie (na innych licytacjach - na każdej może być inna cena wywoławcza). W przypadku sprzedaży depozytu zapamiętywana jest cena i dane klienta który go nabył ."
+}
