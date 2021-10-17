@@ -36,7 +36,7 @@
 										"$ref": "AAAAAAF8jk3ixqhZxn0="
 									},
 									"font": "Arial;13;0",
-									"left": 570,
+									"left": 730,
 									"top": 90,
 									"width": 54.18994140625,
 									"height": 13,
@@ -45,7 +45,7 @@
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 560,
+							"left": 720,
 							"top": 80,
 							"width": 74.18994140625,
 							"height": 33,
@@ -70,21 +70,653 @@
 										"$ref": "AAAAAAF8jk4MNqhjCUM="
 									},
 									"font": "Arial;13;0",
-									"left": 274,
-									"top": 274,
-									"width": 54.18994140625,
-									"height": 13,
-									"text": "Procesy ",
+									"left": 714,
+									"top": 170,
+									"width": 93,
+									"height": 26,
+									"text": "Background processes",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 264,
-							"top": 264,
-							"width": 74.18994140625,
-							"height": 33,
+							"left": 704,
+							"top": 160,
+							"width": 113,
+							"height": 46,
 							"nameLabel": {
 								"$ref": "AAAAAAF8jk4MNqhkqKo="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jlSvqahxgMA=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jlSvqahvU5E="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jlSvqahye6U=",
+									"_parent": {
+										"$ref": "AAAAAAF8jlSvqahxgMA="
+									},
+									"font": "Arial;13;0",
+									"left": 394,
+									"top": 170,
+									"width": 109,
+									"height": 26,
+									"text": "Foreground processes",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 160,
+							"width": 129,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jlSvqahye6U="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF8jlYGv6iB26Q=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jlYGv6h/N0w="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF8jlYGv6iCxO0=",
+									"_parent": {
+										"$ref": "AAAAAAF8jlYGv6iB26Q="
+									},
+									"model": {
+										"$ref": "AAAAAAF8jlYGv6h/N0w="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 462,
+									"top": 97,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF8jlYGv6iB26Q="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8jlSvqahxgMA="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jk3ixqhZxn0="
+							},
+							"lineStyle": 2,
+							"points": "720:104;448:104;448:160",
+							"nameLabel": {
+								"$ref": "AAAAAAF8jlYGv6iCxO0="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF8jlYYdKiKIjE=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jlYYc6iIQHY="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF8jlYYdKiLs28=",
+									"_parent": {
+										"$ref": "AAAAAAF8jlYYdKiKIjE="
+									},
+									"model": {
+										"$ref": "AAAAAAF8jlYYc6iIQHY="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 774,
+									"top": 129,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF8jlYYdKiKIjE="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8jk4MNqhjCUM="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jk3ixqhZxn0="
+							},
+							"lineStyle": 2,
+							"points": "760:112;760:160",
+							"nameLabel": {
+								"$ref": "AAAAAAF8jlYYdKiLs28="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jljeHaiXsdc=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jljeHaiV6cY="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jljeHqiYrR4=",
+									"_parent": {
+										"$ref": "AAAAAAF8jljeHaiXsdc="
+									},
+									"font": "Arial;13;0",
+									"left": 226,
+									"top": 258,
+									"width": 118.18994140625,
+									"height": 13,
+									"text": "Showing auctions",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 216,
+							"top": 248,
+							"width": 138.18994140625,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jljeHqiYrR4="
+							}
+						},
+						{
+							"_type": "FreelineEdgeView",
+							"_id": "AAAAAAF8jlkSLKidpUA=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"font": "Arial;13;0",
+							"lineStyle": 1,
+							"points": "448:232;448:232"
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF8jllYHqingU0=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jllYHqilpVY="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF8jllYHqio0K8=",
+									"_parent": {
+										"$ref": "AAAAAAF8jllYHqingU0="
+									},
+									"model": {
+										"$ref": "AAAAAAF8jllYHqilpVY="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 447,
+									"top": 279,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF8jllYHqingU0="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8jljeHaiXsdc="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jlSvqahxgMA="
+							},
+							"lineStyle": 2,
+							"points": "448:205;448:270;353:270",
+							"nameLabel": {
+								"$ref": "AAAAAAF8jllYHqio0K8="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jltqh6i6HTY=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jltqhqi4Ga8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jltqh6i7oTA=",
+									"_parent": {
+										"$ref": "AAAAAAF8jltqh6i6HTY="
+									},
+									"font": "Arial;13;0",
+									"left": 554,
+									"top": 250,
+									"width": 101,
+									"height": 26,
+									"text": "Client login logout tracking",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 544,
+							"top": 240,
+							"width": 121,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jltqh6i7oTA="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jltwkajCVcw=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jltwkajA8zw="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jltwkajD0Js=",
+									"_parent": {
+										"$ref": "AAAAAAF8jltwkajCVcw="
+									},
+									"font": "Arial;13;0",
+									"left": 546,
+									"top": 402,
+									"width": 109,
+									"height": 26,
+									"text": "Calculation of the commission",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 536,
+							"top": 392,
+							"width": 129,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jltwkajD0Js="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jl/yd6jXiPk=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jl/ydqjVADY="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jl/yd6jYmt8=",
+									"_parent": {
+										"$ref": "AAAAAAF8jl/yd6jXiPk="
+									},
+									"font": "Arial;13;0",
+									"left": 554,
+									"top": 466,
+									"width": 109,
+									"height": 13,
+									"text": "Auction tracking",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 544,
+							"top": 456,
+							"width": 129,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jl/yd6jYmt8="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jmDmAqjkikI=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jmDmAqjiAFc="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jmDmAqjlz/U=",
+									"_parent": {
+										"$ref": "AAAAAAF8jmDmAqjkikI="
+									},
+									"font": "Arial;13;0",
+									"left": 922,
+									"top": 170,
+									"width": 109,
+									"height": 26,
+									"text": "Data base processes",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 912,
+							"top": 160,
+							"width": 129,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jmDmAqjlz/U="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF8jmHT9aj4Qa8=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jmHT9aj2E78="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF8jmHT9qj5/iQ=",
+									"_parent": {
+										"$ref": "AAAAAAF8jmHT9aj4Qa8="
+									},
+									"model": {
+										"$ref": "AAAAAAF8jmHT9aj2E78="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 990,
+									"top": 89,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF8jmHT9aj4Qa8="
+									},
+									"edgePosition": 1
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8jmDmAqjkikI="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jk3ixqhZxn0="
+							},
+							"lineStyle": 2,
+							"points": "793:96;976:96;976:160",
+							"nameLabel": {
+								"$ref": "AAAAAAF8jmHT9qj5/iQ="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jmIwUakFkIM=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jmIwUakDP3I="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jmIwUakGEBU=",
+									"_parent": {
+										"$ref": "AAAAAAF8jmIwUakFkIM="
+									},
+									"font": "Arial;13;0",
+									"left": 1042,
+									"top": 258,
+									"width": 101,
+									"height": 26,
+									"text": "Store client information",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1032,
+							"top": 248,
+							"width": 121,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jmIwUakGEBU="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jmNNz6kSNYU=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jmNNzqkQABg="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jmNNz6kTUr0=",
+									"_parent": {
+										"$ref": "AAAAAAF8jmNNz6kSNYU="
+									},
+									"font": "Arial;13;0",
+									"left": 1050,
+									"top": 346,
+									"width": 101,
+									"height": 26,
+									"text": "Store auction information",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1040,
+							"top": 336,
+							"width": 121,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jmNNz6kTUr0="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jmTDEKkfImM=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jmTDEKkduOc="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jmTDEakgFpY=",
+									"_parent": {
+										"$ref": "AAAAAAF8jmTDEKkfImM="
+									},
+									"font": "Arial;13;0",
+									"left": 1050,
+									"top": 506,
+									"width": 101,
+									"height": 26,
+									"text": "Store employees information",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1040,
+							"top": 496,
+							"width": 121,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jmTDEakgFpY="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jmXCc6k4TO8=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jmXCc6k2Sj8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jmXCc6k5WIU=",
+									"_parent": {
+										"$ref": "AAAAAAF8jmXCc6k4TO8="
+									},
+									"font": "Arial;13;0",
+									"left": 554,
+									"top": 322,
+									"width": 109,
+									"height": 26,
+									"text": "Employees login logout tracking",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 544,
+							"top": 312,
+							"width": 129,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jmXCc6k5WIU="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jnbBsKlJJps=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jnbBr6lHdRU="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jnbBsKlK7dc=",
+									"_parent": {
+										"$ref": "AAAAAAF8jnbBsKlJJps="
+									},
+									"font": "Arial;13;0",
+									"left": 1050,
+									"top": 586,
+									"width": 109,
+									"height": 26,
+									"text": "Store property information",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1040,
+							"top": 576,
+							"width": 129,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jnbBsKlK7dc="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jnfF0alZRVU=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jnfF0alXDxY="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jnfF0alaeWs=",
+									"_parent": {
+										"$ref": "AAAAAAF8jnfF0alZRVU="
+									},
+									"font": "Arial;13;0",
+									"left": 1146,
+									"top": 410,
+									"width": 77,
+									"height": 13,
+									"text": "Date info",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1136,
+							"top": 400,
+							"width": 97,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jnfF0alaeWs="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8jnf5WqliB9o=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8jnf5Wqlgn/E="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8jnf5WqljrXg=",
+									"_parent": {
+										"$ref": "AAAAAAF8jnf5WqliB9o="
+									},
+									"font": "Arial;13;0",
+									"left": 1146,
+									"top": 458,
+									"width": 85,
+									"height": 13,
+									"text": "Address info",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1136,
+							"top": 448,
+							"width": 105,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF8jnf5WqljrXg="
 							}
 						}
 					]
@@ -95,7 +727,48 @@
 					"_parent": {
 						"$ref": "AAAAAAF8jh2IfKhLE7s="
 					},
-					"name": "Aukcja"
+					"name": "Aukcja",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF8jlYGv6h/N0w=",
+							"_parent": {
+								"$ref": "AAAAAAF8jk3ixqhXLrw="
+							},
+							"source": {
+								"$ref": "AAAAAAF8jk3ixqhXLrw="
+							},
+							"target": {
+								"$ref": "AAAAAAF8jlSvqahvU5E="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF8jlYYc6iIQHY=",
+							"_parent": {
+								"$ref": "AAAAAAF8jk3ixqhXLrw="
+							},
+							"source": {
+								"$ref": "AAAAAAF8jk3ixqhXLrw="
+							},
+							"target": {
+								"$ref": "AAAAAAF8jk4MNqhhUc8="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF8jmHT9aj2E78=",
+							"_parent": {
+								"$ref": "AAAAAAF8jk3ixqhXLrw="
+							},
+							"source": {
+								"$ref": "AAAAAAF8jk3ixqhXLrw="
+							},
+							"target": {
+								"$ref": "AAAAAAF8jmDmAqjiAFc="
+							}
+						}
+					]
 				},
 				{
 					"_type": "FCProcess",
@@ -103,7 +776,126 @@
 					"_parent": {
 						"$ref": "AAAAAAF8jh2IfKhLE7s="
 					},
-					"name": "Procesy "
+					"name": "Background processes"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jlSvqahvU5E=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Foreground processes",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF8jllYHqilpVY=",
+							"_parent": {
+								"$ref": "AAAAAAF8jlSvqahvU5E="
+							},
+							"source": {
+								"$ref": "AAAAAAF8jlSvqahvU5E="
+							},
+							"target": {
+								"$ref": "AAAAAAF8jljeHaiV6cY="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jljeHaiV6cY=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Showing auctions"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jltqhqi4Ga8=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Client login logout tracking"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jltwkajA8zw=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Calculation of the commission"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jl/ydqjVADY=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Auction tracking"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jmDmAqjiAFc=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Data base processes"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jmIwUakDP3I=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Store client information"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jmNNzqkQABg=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Store auction information"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jmTDEKkduOc=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Store employees information"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jmXCc6k2Sj8=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Employees login logout tracking"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jnbBr6lHdRU=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Store property information"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jnfF0alXDxY=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Date info"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8jnf5Wqlgn/E=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Address info"
 				}
 			]
 		}
