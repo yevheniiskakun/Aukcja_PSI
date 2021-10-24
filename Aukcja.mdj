@@ -228,18 +228,18 @@
 										"$ref": "AAAAAAF8jljeHaiXsdc="
 									},
 									"font": "Arial;13;0",
-									"left": 226,
+									"left": 202,
 									"top": 258,
-									"width": 118.18994140625,
+									"width": 142.18994140625,
 									"height": 13,
 									"text": "Showing auctions",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 216,
+							"left": 192,
 							"top": 248,
-							"width": 138.18994140625,
+							"width": 162.18994140625,
 							"height": 46,
 							"nameLabel": {
 								"$ref": "AAAAAAF8jljeHqiYrR4="
@@ -341,7 +341,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 554,
-									"top": 466,
+									"top": 522,
 									"width": 109,
 									"height": 13,
 									"text": "Auction tracking",
@@ -350,7 +350,7 @@
 							],
 							"font": "Arial;13;0",
 							"left": 544,
-							"top": 456,
+							"top": 512,
 							"width": 129,
 							"height": 33,
 							"nameLabel": {
@@ -521,16 +521,16 @@
 										"$ref": "AAAAAAF8jmTDEKkfImM="
 									},
 									"font": "Arial;13;0",
-									"left": 874,
+									"left": 954,
 									"top": 490,
 									"width": 109,
 									"height": 26,
-									"text": "Store employees information",
+									"text": "Employees information",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 864,
+							"left": 944,
 							"top": 480,
 							"width": 129,
 							"height": 46,
@@ -590,7 +590,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 874,
-									"top": 570,
+									"top": 666,
 									"width": 109,
 									"height": 26,
 									"text": "Store property information",
@@ -599,7 +599,7 @@
 							],
 							"font": "Arial;13;0",
 							"left": 864,
-							"top": 560,
+							"top": 656,
 							"width": 129,
 							"height": 46,
 							"nameLabel": {
@@ -625,7 +625,7 @@
 									"font": "Arial;13;0",
 									"left": 954,
 									"top": 394,
-									"width": 85,
+									"width": 109,
 									"height": 13,
 									"text": "Date info",
 									"wordWrap": true
@@ -634,7 +634,7 @@
 							"font": "Arial;13;0",
 							"left": 944,
 							"top": 384,
-							"width": 105,
+							"width": 129,
 							"height": 33,
 							"nameLabel": {
 								"$ref": "AAAAAAF8jnfF0alaeWs="
@@ -659,7 +659,7 @@
 									"font": "Arial;13;0",
 									"left": 954,
 									"top": 442,
-									"width": 85,
+									"width": 109,
 									"height": 13,
 									"text": "Address info",
 									"wordWrap": true
@@ -668,7 +668,7 @@
 							"font": "Arial;13;0",
 							"left": 944,
 							"top": 432,
-							"width": 105,
+							"width": 129,
 							"height": 33,
 							"nameLabel": {
 								"$ref": "AAAAAAF8jnf5WqljrXg="
@@ -692,7 +692,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 554,
-									"top": 522,
+									"top": 578,
 									"width": 109,
 									"height": 26,
 									"text": "Auction processing",
@@ -701,7 +701,7 @@
 							],
 							"font": "Arial;13;0",
 							"left": 544,
-							"top": 512,
+							"top": 568,
 							"width": 129,
 							"height": 46,
 							"nameLabel": {
@@ -786,7 +786,7 @@
 								"$ref": "AAAAAAF8jk4MNqhjCUM="
 							},
 							"lineStyle": 1,
-							"points": "760:206;760:472;673:472"
+							"points": "760:206;760:528;673:528"
 						},
 						{
 							"_type": "UMLNoteLinkView",
@@ -802,7 +802,7 @@
 								"$ref": "AAAAAAF8jk4MNqhjCUM="
 							},
 							"lineStyle": 1,
-							"points": "760:206;760:536;673:535"
+							"points": "760:206;760:592;673:591"
 						},
 						{
 							"_type": "UMLNoteLinkView",
@@ -870,22 +870,6 @@
 						},
 						{
 							"_type": "UMLNoteLinkView",
-							"_id": "AAAAAAF8joXyqaniSHw=",
-							"_parent": {
-								"$ref": "AAAAAAF8jh2IfahMlhs="
-							},
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAF8jmTDEKkfImM="
-							},
-							"tail": {
-								"$ref": "AAAAAAF8jmDmAqjkikI="
-							},
-							"lineStyle": 1,
-							"points": "1152:206;1152:504;993:503"
-						},
-						{
-							"_type": "UMLNoteLinkView",
 							"_id": "AAAAAAF8joZazqnrwEE=",
 							"_parent": {
 								"$ref": "AAAAAAF8jh2IfahMlhs="
@@ -898,7 +882,423 @@
 								"$ref": "AAAAAAF8jmDmAqjkikI="
 							},
 							"lineStyle": 1,
-							"points": "1152:206;1152:584;993:583"
+							"points": "1152:206;1152:680;993:679"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8k9vxKWlQOe4=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8k9vxKWlOaa0="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8k9vxKWlRWlk=",
+									"_parent": {
+										"$ref": "AAAAAAF8k9vxKWlQOe4="
+									},
+									"font": "Arial;13;0",
+									"left": 554,
+									"top": 466,
+									"width": 109,
+									"height": 13,
+									"text": "User registration",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 544,
+							"top": 456,
+							"width": 129,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF8k9vxKWlRWlk="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8k93BeWljuNw=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8k9vxKWlQOe4="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jk4MNqhjCUM="
+							},
+							"lineStyle": 1,
+							"points": "760:206;760:472;673:472"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8k+XrEGmCLIo=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8k+XrEGmAd4s="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8k+XrEGmDRkM=",
+									"_parent": {
+										"$ref": "AAAAAAF8k+XrEGmCLIo="
+									},
+									"font": "Arial;13;0",
+									"left": 202,
+									"top": 338,
+									"width": 141,
+									"height": 26,
+									"text": "Showing necessary information",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 192,
+							"top": 328,
+							"width": 161,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8k+XrEGmDRkM="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8k+aM12mQbjY=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8k+XrEGmCLIo="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jlSvqahxgMA="
+							},
+							"lineStyle": 1,
+							"points": "448:206;448:352;353:351"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8k+rh8WmeaPM=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8k+rh8Wmc2kw="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8k+rh8WmfYRc=",
+									"_parent": {
+										"$ref": "AAAAAAF8k+rh8WmeaPM="
+									},
+									"font": "Arial;13;0",
+									"left": 202,
+									"top": 410,
+									"width": 141,
+									"height": 13,
+									"text": "User Interface",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 192,
+							"top": 400,
+							"width": 161,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF8k+rh8WmfYRc="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8k+s4DmmoWAU=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8k+rh8WmeaPM="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jlSvqahxgMA="
+							},
+							"lineStyle": 1,
+							"points": "448:206;448:416;353:416"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8l3m7vuFIT0g=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8l3m7veFGEpA="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8l3m7vuFJHnk=",
+									"_parent": {
+										"$ref": "AAAAAAF8l3m7vuFIT0g="
+									},
+									"font": "Arial;13;0",
+									"left": 954,
+									"top": 554,
+									"width": 109,
+									"height": 26,
+									"text": "Assistant/s information",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 944,
+							"top": 544,
+							"width": 129,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8l3m7vuFJHnk="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8l3pqNeFUhfw=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8jmTDEKkfImM="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jmNNz6kSNYU="
+							},
+							"lineStyle": 1,
+							"points": "928:358;928:504;943:504"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8l3qKUOFYHbw=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8l3m7vuFIT0g="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jmNNz6kSNYU="
+							},
+							"lineStyle": 1,
+							"points": "928:358;928:568;943:568"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8l3yyNuFkzmg=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8l3yyNeFiNUA="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8l3yyNuFl+JE=",
+									"_parent": {
+										"$ref": "AAAAAAF8l3yyNuFkzmg="
+									},
+									"font": "Arial;13;0",
+									"left": 970,
+									"top": 738,
+									"width": 109,
+									"height": 13,
+									"text": "Owner information",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 960,
+							"top": 728,
+							"width": 129,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF8l3yyNuFl+JE="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8l30jC+FulO4=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8l3yyNuFkzmg="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jnbBsKlJJps="
+							},
+							"lineStyle": 1,
+							"points": "928:702;928:744;959:744"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8l320xOF0g+4=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8l320xOFyj+g="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8l320xeF1t5Y=",
+									"_parent": {
+										"$ref": "AAAAAAF8l320xOF0g+4="
+									},
+									"font": "Arial;13;0",
+									"left": 970,
+									"top": 794,
+									"width": 109,
+									"height": 13,
+									"text": "Deposit",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 960,
+							"top": 784,
+							"width": 129,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF8l320xeF1t5Y="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8l33o5uF9xRY=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8l320xOF0g+4="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jnbBsKlJJps="
+							},
+							"lineStyle": 1,
+							"points": "928:702;928:800;959:800"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8l369MuGDl8c=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8l369MuGBbOU="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8l369M+GE/Sc=",
+									"_parent": {
+										"$ref": "AAAAAAF8l369MuGDl8c="
+									},
+									"font": "Arial;13;0",
+									"left": 970,
+									"top": 850,
+									"width": 109,
+									"height": 13,
+									"text": "Starting price",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 960,
+							"top": 840,
+							"width": 129,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF8l369M+GE/Sc="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8l39ui+GSMSI=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"model": {
+								"$ref": "AAAAAAF8l39ui+GQ+Zk="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8l39ui+GTaF4=",
+									"_parent": {
+										"$ref": "AAAAAAF8l39ui+GSMSI="
+									},
+									"font": "Arial;13;0",
+									"left": 954,
+									"top": 618,
+									"width": 109,
+									"height": 13,
+									"text": "Starting price",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 944,
+							"top": 608,
+							"width": 129,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF8l39ui+GTaF4="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8l3+zUOGctjs=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8l39ui+GSMSI="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jmNNz6kSNYU="
+							},
+							"lineStyle": 1,
+							"points": "928:358;928:624;943:624"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8l3/P1uGgnkQ=",
+							"_parent": {
+								"$ref": "AAAAAAF8jh2IfahMlhs="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8l369MuGDl8c="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8jnbBsKlJJps="
+							},
+							"lineStyle": 1,
+							"points": "928:702;928:856;959:856"
 						}
 					]
 				},
@@ -1029,7 +1429,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF8jh2IfKhLE7s="
 					},
-					"name": "Store employees information"
+					"name": "Employees information"
 				},
 				{
 					"_type": "FCProcess",
@@ -1070,6 +1470,70 @@
 						"$ref": "AAAAAAF8jh2IfKhLE7s="
 					},
 					"name": "Auction processing"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8k9vxKWlOaa0=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "User registration"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8k+XrEGmAd4s=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Showing necessary information"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8k+rh8Wmc2kw=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "User Interface"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8l3m7veFGEpA=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Assistant/s information"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8l3yyNeFiNUA=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Owner information"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8l320xOFyj+g=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Deposit"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8l369MuGBbOU=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Starting price"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8l39ui+GQ+Zk=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Starting price"
 				}
 			]
 		}
