@@ -1536,6 +1536,362 @@
 					"name": "Starting price"
 				}
 			]
+		},
+		{
+			"_type": "FCFlowchart",
+			"_id": "AAAAAAF8sxj5Ln0zpBE=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "FHD",
+			"ownedElements": [
+				{
+					"_type": "FCFlowchartDiagram",
+					"_id": "AAAAAAF8sxj5Ln00v0I=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "FHD",
+					"ownedViews": [
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8sxnPCn09e5s=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8sxnPCn07R4c="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8sxnPC30+ZXY=",
+									"_parent": {
+										"$ref": "AAAAAAF8sxnPCn09e5s="
+									},
+									"font": "Arial;13;0",
+									"left": 586,
+									"top": 66,
+									"width": 157,
+									"height": 26,
+									"text": "System do zarządzania Domem aukcyjnym",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 576,
+							"top": 56,
+							"width": 177,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8sxnPC30+ZXY="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8sxpR631LOiE=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8sxpR631J7Gg="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8sxpR631Ms4M=",
+									"_parent": {
+										"$ref": "AAAAAAF8sxpR631LOiE="
+									},
+									"font": "Arial;13;0",
+									"left": 386,
+									"top": 154,
+									"width": 65.025390625,
+									"height": 26,
+									"text": "Rejestracja klientów",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 376,
+							"top": 144,
+							"width": 85.025390625,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8sxpR631Ms4M="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8sxrgRX1Xyoo=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8sxrgRH1VwZ8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8sxrgRX1Y7G8=",
+									"_parent": {
+										"$ref": "AAAAAAF8sxrgRX1Xyoo="
+									},
+									"font": "Arial;13;0",
+									"left": 530,
+									"top": 154,
+									"width": 75.1435546875,
+									"height": 26,
+									"text": "Rejestracja pracowników",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 520,
+							"top": 144,
+							"width": 95.1435546875,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8sxrgRX1Y7G8="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8sxtl2H1h3SA=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8sxtl2H1fHmY="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8sxtl2H1i3Rg=",
+									"_parent": {
+										"$ref": "AAAAAAF8sxtl2H1h3SA="
+									},
+									"font": "Arial;13;0",
+									"left": 674,
+									"top": 154,
+									"width": 65.025390625,
+									"height": 26,
+									"text": "Rejestracja dobr",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 664,
+							"top": 144,
+							"width": 85.025390625,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8sxtl2H1i3Rg="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8sxuWAn1rnf0=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8sxuWAX1pVXM="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8sxuWAn1salc=",
+									"_parent": {
+										"$ref": "AAAAAAF8sxuWAn1rnf0="
+									},
+									"font": "Arial;13;0",
+									"left": 810,
+									"top": 154,
+									"width": 65.025390625,
+									"height": 26,
+									"text": "Rejestracja aukcji",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 800,
+							"top": 144,
+							"width": 85.025390625,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8sxuWAn1salc="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8sxxHUH11z0U=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8sxxHUH1z3Jk="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8sxxHUH129Eg=",
+									"_parent": {
+										"$ref": "AAAAAAF8sxxHUH11z0U="
+									},
+									"font": "Arial;13;0",
+									"left": 946,
+									"top": 154,
+									"width": 62.01025390625,
+									"height": 26,
+									"text": "Wyliczanie prowizji",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 936,
+							"top": 144,
+							"width": 82.01025390625,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8sxxHUH129Eg="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8sxyCUX1/TdE=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8sxyCUX196ms="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8sxyCUX2AbIk=",
+									"_parent": {
+										"$ref": "AAAAAAF8sxyCUX1/TdE="
+									},
+									"font": "Arial;13;0",
+									"left": 1066,
+									"top": 154,
+									"width": 54.18994140625,
+									"height": 26,
+									"text": "Rapory z aukcji",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1056,
+							"top": 144,
+							"width": 74.18994140625,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8sxyCUX2AbIk="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8syBIWH2J9EI=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8syBIV32H0f8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8syBIWH2KS/w=",
+									"_parent": {
+										"$ref": "AAAAAAF8syBIWH2J9EI="
+									},
+									"font": "Arial;13;0",
+									"left": 250,
+									"top": 146,
+									"width": 80.1962890625,
+									"height": 39,
+									"text": "Prowadzenie ewidencji użytkowników",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 240,
+							"top": 136,
+							"width": 100.1962890625,
+							"height": 59,
+							"nameLabel": {
+								"$ref": "AAAAAAF8syBIWH2KS/w="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8sxnPCn07R4c=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "System do zarządzania Domem aukcyjnym"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8sxpR631J7Gg=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "Rejestracja klientów"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8sxrgRH1VwZ8=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "Rejestracja pracowników"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8sxtl2H1fHmY=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "Rejestracja dobr"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8sxuWAX1pVXM=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "Rejestracja aukcji"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8sxxHUH1z3Jk=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "Wyliczanie prowizji"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8sxyCUX196ms=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "Rapory z aukcji"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8syBIV32H0f8=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "Prowadzenie ewidencji użytkowników"
+				}
+			]
 		}
 	],
 	"documentation": "Dom Aukcyjny postanowił usprawnić swoja działalność poprzez wprowadzenie systemu komputerowego. System ten ma ułatwić prowadzenie ewidencji pracowników, klientów Domu i aukcji, które się odbyły, jak również wszystkich zgłoszonych do licytacji przedmiotów i dóbr (tzw. depozytów).\n\nSystem ma przechowywać daty i adresy wszystkich aukcji, które prowadził Dom. Zapamiętuje się, który pracownik prowadził licytacje (otrzymuje on za to dodatkowa, jednorazową premie, nie większą niż 50% zasadniczego wynagrodzenia) oraz wszystkich pracowników, którzy go wspomagali (zawsze przynajmniej jedna osoba, np.: przy demonstracji depozytów lub udzielaniu wyjaśnień).\n\nNa aukcji dokonuje się licytacji jednego lub więcej zgłoszonych depozytów. Dom Aukcyjny prowadzi aukcje dowolnego rodzaju dóbr. Choć zazwyczaj są to dzieła sztuki. Z punktu widzenia Domu najważniejsza jest wartość prowizji, jaką otrzyma po udanej sprzedaży. Zapamiętywany jest również klient, który zgłosił przedmiot do licytacji, wartość depozytu (podana przez klienta na wypadek np.: kradzieży lub zniszczenia, w celu wypłaty odszkodowania) oraz jego cena wywoławcza. W przypadku braku chętnych na depozyt może on być wystawiany wielokrotnie (na innych licytacjach - na każdej może być inna cena wywoławcza). W przypadku sprzedaży depozytu zapamiętywana jest cena i dane klienta który go nabył ."
