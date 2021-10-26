@@ -377,7 +377,7 @@
 									"left": 1098,
 									"top": 170,
 									"width": 109,
-									"height": 26,
+									"height": 13,
 									"text": "Data base processes",
 									"wordWrap": true
 								}
@@ -694,7 +694,7 @@
 									"left": 554,
 									"top": 578,
 									"width": 109,
-									"height": 26,
+									"height": 13,
 									"text": "Auction processing",
 									"wordWrap": true
 								}
@@ -1605,7 +1605,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 122,
-									"top": 154,
+									"top": 146,
 									"width": 125,
 									"height": 26,
 									"text": "1 - Rejestracja klientów",
@@ -1614,7 +1614,7 @@
 							],
 							"font": "Arial;13;0",
 							"left": 112,
-							"top": 144,
+							"top": 136,
 							"width": 145,
 							"height": 46,
 							"nameLabel": {
@@ -1638,18 +1638,18 @@
 										"$ref": "AAAAAAF8sxrgRX1Xyoo="
 									},
 									"font": "Arial;13;0",
-									"left": 418,
-									"top": 162,
-									"width": 101,
+									"left": 410,
+									"top": 154,
+									"width": 109,
 									"height": 26,
 									"text": "2 - Rejestracja pracowników",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 408,
-							"top": 152,
-							"width": 121,
+							"left": 400,
+							"top": 144,
+							"width": 129,
 							"height": 46,
 							"nameLabel": {
 								"$ref": "AAAAAAF8sxrgRX1Y7G8="
@@ -1672,18 +1672,18 @@
 										"$ref": "AAAAAAF8sxtl2H1h3SA="
 									},
 									"font": "Arial;13;0",
-									"left": 946,
+									"left": 1010,
 									"top": 162,
-									"width": 117,
+									"width": 125,
 									"height": 13,
-									"text": "4 - Rejestracja dobr",
+									"text": "3 - Rejestracja dóbr",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 936,
+							"left": 1000,
 							"top": 152,
-							"width": 137,
+							"width": 145,
 							"height": 41,
 							"nameLabel": {
 								"$ref": "AAAAAAF8sxtl2H1i3Rg="
@@ -1706,18 +1706,18 @@
 										"$ref": "AAAAAAF8sxuWAn1rnf0="
 									},
 									"font": "Arial;13;0",
-									"left": 1194,
+									"left": 1258,
 									"top": 162,
-									"width": 93,
+									"width": 109,
 									"height": 26,
-									"text": "5 - Rejestracja aukcji",
+									"text": "4 - Prowadzenie aukcji",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 1184,
+							"left": 1248,
 							"top": 152,
-							"width": 113,
+							"width": 129,
 							"height": 46,
 							"nameLabel": {
 								"$ref": "AAAAAAF8sxuWAn1salc="
@@ -1740,16 +1740,16 @@
 										"$ref": "AAAAAAF8sxxHUH11z0U="
 									},
 									"font": "Arial;13;0",
-									"left": 1418,
+									"left": 1642,
 									"top": 162,
 									"width": 93,
 									"height": 26,
-									"text": "6 - Wyliczanie prowizji",
+									"text": "5 - Rejestracja prowizji",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 1408,
+							"left": 1632,
 							"top": 152,
 							"width": 113,
 							"height": 46,
@@ -1774,55 +1774,21 @@
 										"$ref": "AAAAAAF8sxyCUX1/TdE="
 									},
 									"font": "Arial;13;0",
-									"left": 1650,
+									"left": 1834,
 									"top": 162,
 									"width": 125,
-									"height": 13,
-									"text": "7 - Rapory z aukcji",
+									"height": 26,
+									"text": "6 - Wygenerowanie raportów z aukcji",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 1640,
+							"left": 1824,
 							"top": 152,
 							"width": 145,
-							"height": 41,
-							"nameLabel": {
-								"$ref": "AAAAAAF8sxyCUX2AbIk="
-							}
-						},
-						{
-							"_type": "FCProcessView",
-							"_id": "AAAAAAF8syBIWH2J9EI=",
-							"_parent": {
-								"$ref": "AAAAAAF8sxj5Ln00v0I="
-							},
-							"model": {
-								"$ref": "AAAAAAF8syBIV32H0f8="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAF8syBIWH2KS/w=",
-									"_parent": {
-										"$ref": "AAAAAAF8syBIWH2J9EI="
-									},
-									"font": "Arial;13;0",
-									"left": 650,
-									"top": 162,
-									"width": 160.1962890625,
-									"height": 26,
-									"text": "3 - Prowadzenie ewidencji użytkowników",
-									"wordWrap": true
-								}
-							],
-							"font": "Arial;13;0",
-							"left": 640,
-							"top": 152,
-							"width": 180.1962890625,
 							"height": 46,
 							"nameLabel": {
-								"$ref": "AAAAAAF8syBIWH2KS/w="
+								"$ref": "AAAAAAF8sxyCUX2AbIk="
 							}
 						},
 						{
@@ -1865,7 +1831,7 @@
 								"$ref": "AAAAAAF8sxnPCn09e5s="
 							},
 							"lineStyle": 2,
-							"points": "656:80;184:80;184:144",
+							"points": "656:80;184:80;184:136",
 							"nameLabel": {
 								"$ref": "AAAAAAF8sy6wOn2mL4Q="
 							}
@@ -1910,54 +1876,9 @@
 								"$ref": "AAAAAAF8sxnPCn09e5s="
 							},
 							"lineStyle": 2,
-							"points": "656:78;464:78;464:152",
+							"points": "656:78;464:78;464:144",
 							"nameLabel": {
 								"$ref": "AAAAAAF8sy7d+32xyDY="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAF8sy8PyH26tRc=",
-							"_parent": {
-								"$ref": "AAAAAAF8sxj5Ln00v0I="
-							},
-							"model": {
-								"$ref": "AAAAAAF8sy8PyH24QAw="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF8sy8PyH27QwM=",
-									"_parent": {
-										"$ref": "AAAAAAF8sy8PyH26tRc="
-									},
-									"model": {
-										"$ref": "AAAAAAF8sy8PyH24QAw="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"left": 743,
-									"top": 119,
-									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 15,
-									"hostEdge": {
-										"$ref": "AAAAAAF8sy8PyH26tRc="
-									},
-									"edgePosition": 1
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAF8syBIWH2J9EI="
-							},
-							"tail": {
-								"$ref": "AAAAAAF8sxnPCn09e5s="
-							},
-							"lineStyle": 2,
-							"points": "729:101;729:152",
-							"nameLabel": {
-								"$ref": "AAAAAAF8sy8PyH27QwM="
 							}
 						},
 						{
@@ -1981,7 +1902,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1022,
+									"left": 1086,
 									"top": 73,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2000,7 +1921,7 @@
 								"$ref": "AAAAAAF8sxnPCn09e5s="
 							},
 							"lineStyle": 2,
-							"points": "832:80;1008:80;1008:152",
+							"points": "832:80;1072:80;1072:152",
 							"nameLabel": {
 								"$ref": "AAAAAAF8sy86mX3F+m8="
 							}
@@ -2026,7 +1947,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1256,
+									"left": 1326,
 									"top": 73,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2045,7 +1966,7 @@
 								"$ref": "AAAAAAF8sxnPCn09e5s="
 							},
 							"lineStyle": 2,
-							"points": "832:80;1242:80;1242:152",
+							"points": "832:80;1312:80;1312:152",
 							"nameLabel": {
 								"$ref": "AAAAAAF8sy9To33PoTQ="
 							}
@@ -2071,7 +1992,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1462,
+									"left": 1702,
 									"top": 73,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2090,7 +2011,7 @@
 								"$ref": "AAAAAAF8sxnPCn09e5s="
 							},
 							"lineStyle": 2,
-							"points": "832:80;1448:80;1448:152",
+							"points": "832:80;1688:80;1688:152",
 							"nameLabel": {
 								"$ref": "AAAAAAF8sy99dX3alJ0="
 							}
@@ -2116,7 +2037,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1698,
+									"left": 1910,
 									"top": 73,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -2135,7 +2056,7 @@
 								"$ref": "AAAAAAF8sxnPCn09e5s="
 							},
 							"lineStyle": 2,
-							"points": "832:80;1684:80;1684:152",
+							"points": "832:80;1896:80;1896:152",
 							"nameLabel": {
 								"$ref": "AAAAAAF8szAQTX3t1oo="
 							}
@@ -2159,7 +2080,7 @@
 									"font": "Arial;13;0",
 									"left": 258,
 									"top": 242,
-									"width": 85,
+									"width": 101,
 									"height": 26,
 									"text": "1.1 - Dodaj klienta",
 									"wordWrap": true
@@ -2168,7 +2089,7 @@
 							"font": "Arial;13;0",
 							"left": 248,
 							"top": 232,
-							"width": 105,
+							"width": 121,
 							"height": 46,
 							"nameLabel": {
 								"$ref": "AAAAAAF8szFwT338A5g="
@@ -2188,7 +2109,7 @@
 								"$ref": "AAAAAAF8sxpR631LOiE="
 							},
 							"lineStyle": 1,
-							"points": "184:190;184:256;247:255"
+							"points": "184:182;184:256;247:255"
 						},
 						{
 							"_type": "FCProcessView",
@@ -2209,7 +2130,7 @@
 									"font": "Arial;13;0",
 									"left": 258,
 									"top": 314,
-									"width": 85,
+									"width": 101,
 									"height": 26,
 									"text": "1.2 - Edycja klienta",
 									"wordWrap": true
@@ -2218,7 +2139,7 @@
 							"font": "Arial;13;0",
 							"left": 248,
 							"top": 304,
-							"width": 105,
+							"width": 121,
 							"height": 46,
 							"nameLabel": {
 								"$ref": "AAAAAAF8szNiOn4yfK4="
@@ -2243,7 +2164,7 @@
 									"font": "Arial;13;0",
 									"left": 258,
 									"top": 386,
-									"width": 85,
+									"width": 101,
 									"height": 26,
 									"text": "1.3 - Usuń klienta",
 									"wordWrap": true
@@ -2252,7 +2173,7 @@
 							"font": "Arial;13;0",
 							"left": 248,
 							"top": 376,
-							"width": 105,
+							"width": 121,
 							"height": 46,
 							"nameLabel": {
 								"$ref": "AAAAAAF8szOtg34+y/E="
@@ -2277,7 +2198,7 @@
 									"font": "Arial;13;0",
 									"left": 258,
 									"top": 450,
-									"width": 85,
+									"width": 101,
 									"height": 26,
 									"text": "1.4 - Szukaj klienta",
 									"wordWrap": true
@@ -2286,7 +2207,7 @@
 							"font": "Arial;13;0",
 							"left": 248,
 							"top": 440,
-							"width": 105,
+							"width": 121,
 							"height": 46,
 							"nameLabel": {
 								"$ref": "AAAAAAF8szP4PH5KrlI="
@@ -2306,7 +2227,7 @@
 								"$ref": "AAAAAAF8sxpR631LOiE="
 							},
 							"lineStyle": 1,
-							"points": "184:190;184:328;247:327"
+							"points": "184:182;184:328;247:327"
 						},
 						{
 							"_type": "UMLNoteLinkView",
@@ -2322,7 +2243,7 @@
 								"$ref": "AAAAAAF8sxpR631LOiE="
 							},
 							"lineStyle": 1,
-							"points": "184:190;184:400;247:399"
+							"points": "184:182;184:400;247:399"
 						},
 						{
 							"_type": "UMLNoteLinkView",
@@ -2338,7 +2259,7 @@
 								"$ref": "AAAAAAF8sxpR631LOiE="
 							},
 							"lineStyle": 1,
-							"points": "184:190;184:464;247:463"
+							"points": "184:182;184:464;247:463"
 						},
 						{
 							"_type": "FCProcessView",
@@ -2357,17 +2278,17 @@
 										"$ref": "AAAAAAF8szs2Tn6NDy4="
 									},
 									"font": "Arial;13;0",
-									"left": 1762,
-									"top": 242,
+									"left": 1978,
+									"top": 234,
 									"width": 125,
 									"height": 26,
-									"text": "7.1 - Przygotowanie raportu",
+									"text": "6.1 - Przygotowanie raportu",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 1752,
-							"top": 232,
+							"left": 1968,
+							"top": 224,
 							"width": 145,
 							"height": 49,
 							"nameLabel": {
@@ -2388,7 +2309,7 @@
 								"$ref": "AAAAAAF8sxyCUX1/TdE="
 							},
 							"lineStyle": 1,
-							"points": "1712:193;1712:256;1751:256"
+							"points": "1896:198;1896:248;1967:248"
 						},
 						{
 							"_type": "FCProcessView",
@@ -2407,17 +2328,17 @@
 										"$ref": "AAAAAAF8szv2BX6hKk0="
 									},
 									"font": "Arial;13;0",
-									"left": 1762,
-									"top": 330,
+									"left": 1978,
+									"top": 322,
 									"width": 125,
 									"height": 26,
-									"text": "7.2 - Wyslanie raportu",
+									"text": "6.2 - Wyslanie raportu",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 1752,
-							"top": 320,
+							"left": 1968,
+							"top": 312,
 							"width": 145,
 							"height": 46,
 							"nameLabel": {
@@ -2438,7 +2359,957 @@
 								"$ref": "AAAAAAF8sxyCUX1/TdE="
 							},
 							"lineStyle": 1,
-							"points": "1712:193;1712:344;1751:343"
+							"points": "1896:198;1896:336;1967:335"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8t/EI39Z5pbY=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8t/EI3tZ37Fs="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8t/EI39Z6JNA=",
+									"_parent": {
+										"$ref": "AAAAAAF8t/EI39Z5pbY="
+									},
+									"font": "Arial;13;0",
+									"left": 554,
+									"top": 226,
+									"width": 93,
+									"height": 26,
+									"text": "2.1 - Dodaj pracownika",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 544,
+							"top": 216,
+							"width": 113,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8t/EI39Z6JNA="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8t/F7bdaEdeA=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8t/EI39Z5pbY="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxrgRX1Xyoo="
+							},
+							"lineStyle": 1,
+							"points": "464:190;464:240;543:239"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8t/G/5taNvbk=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8t/G/5taLLMc="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8t/G/5taOCsg=",
+									"_parent": {
+										"$ref": "AAAAAAF8t/G/5taNvbk="
+									},
+									"font": "Arial;13;0",
+									"left": 554,
+									"top": 306,
+									"width": 93,
+									"height": 26,
+									"text": "2.2 - Edycja pracownika",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 544,
+							"top": 296,
+							"width": 113,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8t/G/5taOCsg="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8t/IjhNaY9nc=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8t/G/5taNvbk="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxrgRX1Xyoo="
+							},
+							"lineStyle": 1,
+							"points": "464:190;464:320;543:319"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8t/KCJdaezsw=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8t/KCJdacjGU="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8t/KCJdaf9mg=",
+									"_parent": {
+										"$ref": "AAAAAAF8t/KCJdaezsw="
+									},
+									"font": "Arial;13;0",
+									"left": 554,
+									"top": 378,
+									"width": 93,
+									"height": 26,
+									"text": "2.3 - Usuń pracownika",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 544,
+							"top": 368,
+							"width": 113,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8t/KCJdaf9mg="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8t/LVn9aoK50=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8t/KCJdaezsw="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxrgRX1Xyoo="
+							},
+							"lineStyle": 1,
+							"points": "464:190;464:392;543:391"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8t/LxINau/dg=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8t/LxINasN5M="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8t/LxINavVBw=",
+									"_parent": {
+										"$ref": "AAAAAAF8t/LxINau/dg="
+									},
+									"font": "Arial;13;0",
+									"left": 554,
+									"top": 458,
+									"width": 93,
+									"height": 26,
+									"text": "2.4 - Szukaj pracownika",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 544,
+							"top": 448,
+							"width": 113,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8t/LxINavVBw="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8t/NINNa4/eM=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8t/LxINau/dg="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxrgRX1Xyoo="
+							},
+							"lineStyle": 1,
+							"points": "464:190;464:472;543:471"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8t/ODo9a+OjA=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8t/ODo9a8o/0="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8t/ODo9a/rhg=",
+									"_parent": {
+										"$ref": "AAAAAAF8t/ODo9a+OjA="
+									},
+									"font": "Arial;13;0",
+									"left": 258,
+									"top": 514,
+									"width": 101,
+									"height": 26,
+									"text": "1.5 - Zablokować klienta",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 248,
+							"top": 504,
+							"width": 121,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8t/ODo9a/rhg="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8t/RcDtbNbMI=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8t/ODo9a+OjA="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxpR631LOiE="
+							},
+							"lineStyle": 1,
+							"points": "184:182;184:528;247:527"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8t/uJrtcHUr8=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8t/uJrtcF55k="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8t/uJrtcIxzE=",
+									"_parent": {
+										"$ref": "AAAAAAF8t/uJrtcHUr8="
+									},
+									"font": "Arial;13;0",
+									"left": 1114,
+									"top": 242,
+									"width": 93,
+									"height": 26,
+									"text": "3.2 - Dodaj depozyt",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1104,
+							"top": 232,
+							"width": 113,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8t/uJrtcIxzE="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8t/yKwtce3oE=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8t/yKwtcck4c="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8t/yKw9cfPOM=",
+									"_parent": {
+										"$ref": "AAAAAAF8t/yKwtce3oE="
+									},
+									"font": "Arial;13;0",
+									"left": 1114,
+									"top": 314,
+									"width": 93,
+									"height": 26,
+									"text": "3.3 - Edytuj depozyt",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1104,
+							"top": 304,
+							"width": 113,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8t/yKw9cfPOM="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8t/3amdcvVWg=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8t/3amdctYoY="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8t/3amdcwYz0=",
+									"_parent": {
+										"$ref": "AAAAAAF8t/3amdcvVWg="
+									},
+									"font": "Arial;13;0",
+									"left": 1114,
+									"top": 386,
+									"width": 93,
+									"height": 26,
+									"text": "3.4 - Usuń depozyt",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1104,
+							"top": 376,
+							"width": 113,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8t/3amdcwYz0="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8t/56M9c+LU8=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8t/56M9c8voI="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8t/56NNc/q3k=",
+									"_parent": {
+										"$ref": "AAAAAAF8t/56M9c+LU8="
+									},
+									"font": "Arial;13;0",
+									"left": 1106,
+									"top": 458,
+									"width": 93,
+									"height": 26,
+									"text": "3.5 - Szukaj depozyt",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1096,
+							"top": 448,
+							"width": 113,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8t/56NNc/q3k="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8t//IbddLcD4=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8t/uJrtcHUr8="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxtl2H1h3SA="
+							},
+							"lineStyle": 1,
+							"points": "1072:193;1072:256;1103:255"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8t//2M9dQr3c=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8t/yKwtce3oE="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxtl2H1h3SA="
+							},
+							"lineStyle": 1,
+							"points": "1072:193;1072:328;1103:327"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8uAAPzddUL5U=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8t/3amdcvVWg="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxtl2H1h3SA="
+							},
+							"lineStyle": 1,
+							"points": "1072:193;1072:400;1103:399"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8uAAmYddYzvk=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8t/56M9c+LU8="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxtl2H1h3SA="
+							},
+							"lineStyle": 1,
+							"points": "1072:193;1072:472;1095:471"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8uAFMvddewLY=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8uAFMvddczXs="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8uAFMvddfH1Y=",
+									"_parent": {
+										"$ref": "AAAAAAF8uAFMvddewLY="
+									},
+									"font": "Arial;13;0",
+									"left": 1106,
+									"top": 522,
+									"width": 93,
+									"height": 26,
+									"text": "3.6 - Grupuj depozyty",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1096,
+							"top": 512,
+							"width": 113,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8uAFMvddfH1Y="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8uAG9Vddo5DA=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8uAFMvddewLY="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxtl2H1h3SA="
+							},
+							"lineStyle": 1,
+							"points": "1072:193;1072:536;1095:535"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8uAJdnddxfok=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8uAJdnddvFvc="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8uAJdnddysHc=",
+									"_parent": {
+										"$ref": "AAAAAAF8uAJdnddxfok="
+									},
+									"font": "Arial;13;0",
+									"left": 1394,
+									"top": 234,
+									"width": 93,
+									"height": 26,
+									"text": "4.1 - Dodaj aukcję",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1384,
+							"top": 224,
+							"width": 113,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8uAJdnddysHc="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8uAKm+9d9yXU=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8uAKm+9d7YGs="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8uAKm+9d+zo0=",
+									"_parent": {
+										"$ref": "AAAAAAF8uAKm+9d9yXU="
+									},
+									"font": "Arial;13;0",
+									"left": 1394,
+									"top": 410,
+									"width": 85,
+									"height": 26,
+									"text": "4.2 - Edytuj aukcję",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1384,
+							"top": 400,
+							"width": 105,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8uAKm+9d+zo0="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8uAMMiteJMLk=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8uAMMideHxm4="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8uAMMiteKLV8=",
+									"_parent": {
+										"$ref": "AAAAAAF8uAMMiteJMLk="
+									},
+									"font": "Arial;13;0",
+									"left": 1394,
+									"top": 474,
+									"width": 85,
+									"height": 26,
+									"text": "4.3 - Usuń aukcję",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1384,
+							"top": 464,
+							"width": 105,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8uAMMiteKLV8="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8uANs6teVf38=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8uANs6deTFKE="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8uANs6teWXjA=",
+									"_parent": {
+										"$ref": "AAAAAAF8uANs6teVf38="
+									},
+									"font": "Arial;13;0",
+									"left": 1394,
+									"top": 538,
+									"width": 85,
+									"height": 26,
+									"text": "4.4 - Szukaj aukcję",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1384,
+							"top": 528,
+							"width": 105,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8uANs6teWXjA="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8uAP249ekGPk=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8uAP249eiU8U="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8uAP249elzXI=",
+									"_parent": {
+										"$ref": "AAAAAAF8uAP249ekGPk="
+									},
+									"font": "Arial;13;0",
+									"left": 1394,
+									"top": 602,
+									"width": 85,
+									"height": 26,
+									"text": "4.5 - Grupuj aukcji",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1384,
+							"top": 592,
+							"width": 105,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8uAP249elzXI="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8uAb0qtfXh70=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8uAJdnddxfok="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxuWAn1rnf0="
+							},
+							"lineStyle": 1,
+							"points": "1312:198;1312:248;1383:247"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8uAcZjtfbE0I=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8uAKm+9d9yXU="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxuWAn1rnf0="
+							},
+							"lineStyle": 1,
+							"points": "1312:198;1312:424;1383:423"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8uAc9ntfffJk=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8uAMMiteJMLk="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxuWAn1rnf0="
+							},
+							"lineStyle": 1,
+							"points": "1312:198;1312:488;1383:487"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8uAdTl9fjFxc=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8uANs6teVf38="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxuWAn1rnf0="
+							},
+							"lineStyle": 1,
+							"points": "1312:198;1312:552;1383:551"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8uAds4dfn5UM=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8uAP249ekGPk="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxuWAn1rnf0="
+							},
+							"lineStyle": 1,
+							"points": "1312:198;1312:616;1383:615"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8u9Sv+9XVsHo=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8u9Sv+tXT2v8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8u9Sv+9XWcCQ=",
+									"_parent": {
+										"$ref": "AAAAAAF8u9Sv+9XVsHo="
+									},
+									"font": "Arial;13;0",
+									"left": 1738,
+									"top": 242,
+									"width": 77,
+									"height": 26,
+									"text": "5.1 - Dodaj prowizję",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1728,
+							"top": 232,
+							"width": 97,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8u9Sv+9XWcCQ="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8u9UWANXfyj8=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8u9Sv+9XVsHo="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxxHUH11z0U="
+							},
+							"lineStyle": 1,
+							"points": "1688:198;1688:256;1727:255"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8u9VC3tXm7I8=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8u9VC3tXkz9o="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8u9VC3tXnPm8=",
+									"_parent": {
+										"$ref": "AAAAAAF8u9VC3tXm7I8="
+									},
+									"font": "Arial;13;0",
+									"left": 1738,
+									"top": 314,
+									"width": 77,
+									"height": 26,
+									"text": "5.2 - Edytuj prowizje",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1728,
+							"top": 304,
+							"width": 97,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8u9VC3tXnPm8="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8u9W0WNXy65k=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8u9W0WNXwZt0="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8u9W0WNXzKvc=",
+									"_parent": {
+										"$ref": "AAAAAAF8u9W0WNXy65k="
+									},
+									"font": "Arial;13;0",
+									"left": 1738,
+									"top": 378,
+									"width": 85,
+									"height": 26,
+									"text": "5.3 - Usuń prowizje",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 1728,
+							"top": 368,
+							"width": 105,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8u9W0WNXzKvc="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8u9ZsINYK7tU=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8u9VC3tXm7I8="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxxHUH11z0U="
+							},
+							"lineStyle": 1,
+							"points": "1688:198;1688:328;1727:327"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8u9aJCdYOaxc=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8u9W0WNXy65k="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxxHUH11z0U="
+							},
+							"lineStyle": 1,
+							"points": "1688:198;1688:392;1727:391"
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF8u9bec9YU5PU=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"model": {
+								"$ref": "AAAAAAF8u9bec9YSI60="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF8u9bec9YVYYI=",
+									"_parent": {
+										"$ref": "AAAAAAF8u9bec9YU5PU="
+									},
+									"font": "Arial;13;0",
+									"left": 890,
+									"top": 450,
+									"width": 97.025390625,
+									"height": 26,
+									"text": "3.1 - Rejestracja kategorii",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 880,
+							"top": 440,
+							"width": 117.025390625,
+							"height": 46,
+							"nameLabel": {
+								"$ref": "AAAAAAF8u9bec9YVYYI="
+							}
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF8u9keTNYjA1U=",
+							"_parent": {
+								"$ref": "AAAAAAF8sxj5Ln00v0I="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF8u9bec9YU5PU="
+							},
+							"tail": {
+								"$ref": "AAAAAAF8sxtl2H1h3SA="
+							},
+							"lineStyle": 1,
+							"points": "1072:193;1072:464;997:463"
 						}
 					]
 				},
@@ -2474,19 +3345,6 @@
 							},
 							"target": {
 								"$ref": "AAAAAAF8sxrgRH1VwZ8="
-							}
-						},
-						{
-							"_type": "FCFlow",
-							"_id": "AAAAAAF8sy8PyH24QAw=",
-							"_parent": {
-								"$ref": "AAAAAAF8sxnPCn07R4c="
-							},
-							"source": {
-								"$ref": "AAAAAAF8sxnPCn07R4c="
-							},
-							"target": {
-								"$ref": "AAAAAAF8syBIV32H0f8="
 							}
 						},
 						{
@@ -2565,7 +3423,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF8sxj5Ln0zpBE="
 					},
-					"name": "4 - Rejestracja dobr"
+					"name": "3 - Rejestracja dóbr"
 				},
 				{
 					"_type": "FCProcess",
@@ -2573,7 +3431,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF8sxj5Ln0zpBE="
 					},
-					"name": "5 - Rejestracja aukcji"
+					"name": "4 - Prowadzenie aukcji"
 				},
 				{
 					"_type": "FCProcess",
@@ -2581,7 +3439,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF8sxj5Ln0zpBE="
 					},
-					"name": "6 - Wyliczanie prowizji"
+					"name": "5 - Rejestracja prowizji"
 				},
 				{
 					"_type": "FCProcess",
@@ -2589,15 +3447,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF8sxj5Ln0zpBE="
 					},
-					"name": "7 - Rapory z aukcji"
-				},
-				{
-					"_type": "FCProcess",
-					"_id": "AAAAAAF8syBIV32H0f8=",
-					"_parent": {
-						"$ref": "AAAAAAF8sxj5Ln0zpBE="
-					},
-					"name": "3 - Prowadzenie ewidencji użytkowników"
+					"name": "6 - Wygenerowanie raportów z aukcji"
 				},
 				{
 					"_type": "FCProcess",
@@ -2637,7 +3487,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF8sxj5Ln0zpBE="
 					},
-					"name": "7.1 - Przygotowanie raportu"
+					"name": "6.1 - Przygotowanie raportu"
 				},
 				{
 					"_type": "FCProcess",
@@ -2645,7 +3495,159 @@
 					"_parent": {
 						"$ref": "AAAAAAF8sxj5Ln0zpBE="
 					},
-					"name": "7.2 - Wyslanie raportu"
+					"name": "6.2 - Wyslanie raportu"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8t/EI3tZ37Fs=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "2.1 - Dodaj pracownika"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8t/G/5taLLMc=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "2.2 - Edycja pracownika"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8t/KCJdacjGU=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "2.3 - Usuń pracownika"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8t/LxINasN5M=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "2.4 - Szukaj pracownika"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8t/ODo9a8o/0=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "1.5 - Zablokować klienta"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8t/uJrtcF55k=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "3.2 - Dodaj depozyt"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8t/yKwtcck4c=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "3.3 - Edytuj depozyt"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8t/3amdctYoY=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "3.4 - Usuń depozyt"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8t/56M9c8voI=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "3.5 - Szukaj depozyt"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8uAFMvddczXs=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "3.6 - Grupuj depozyty"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8uAJdnddvFvc=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "4.1 - Dodaj aukcję"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8uAKm+9d7YGs=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "4.2 - Edytuj aukcję"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8uAMMideHxm4=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "4.3 - Usuń aukcję"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8uANs6deTFKE=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "4.4 - Szukaj aukcję"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8uAP249eiU8U=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "4.5 - Grupuj aukcji"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8u9Sv+tXT2v8=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "5.1 - Dodaj prowizję"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8u9VC3tXkz9o=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "5.2 - Edytuj prowizje"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8u9W0WNXwZt0=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "5.3 - Usuń prowizje"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF8u9bec9YSI60=",
+					"_parent": {
+						"$ref": "AAAAAAF8sxj5Ln0zpBE="
+					},
+					"name": "3.1 - Rejestracja kategorii"
 				}
 			]
 		}
