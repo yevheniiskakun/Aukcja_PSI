@@ -482,12 +482,12 @@
 										"$ref": "AAAAAAF81oB080XyiAk="
 									},
 									"font": "Arial;13;0",
-									"left": 262,
-									"top": 728,
+									"left": 260,
+									"top": 608,
 									"width": 180.66064453125,
 									"height": 13,
-									"alpha": -5.056079572691915,
-									"distance": 100.90094152187085,
+									"alpha": -4.895868817139327,
+									"distance": 98.65596788841515,
 									"hostEdge": {
 										"$ref": "AAAAAAF81oB080X0Pls="
 									},
@@ -500,10 +500,10 @@
 								"$ref": "AAAAAAF81ntufEWX+pU="
 							},
 							"tail": {
-								"$ref": "AAAAAAF81oY6nUZ2TDk="
+								"$ref": "AAAAAAF81nZZJ0Vkn94="
 							},
 							"lineStyle": 2,
-							"points": "287:768;448:768;448:560",
+							"points": "256:632;448:632;448:560",
 							"nameLabel": {
 								"$ref": "AAAAAAF81oB080X1JJA="
 							}
@@ -620,7 +620,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 416,
-									"top": 939,
+									"top": 931,
 									"width": 96.10986328125,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -640,7 +640,7 @@
 								"$ref": "AAAAAAF81nNX50VAEiM="
 							},
 							"lineStyle": 2,
-							"points": "96:472;96:960;832:960;832:688",
+							"points": "96:472;96:952;832:952;832:688",
 							"nameLabel": {
 								"$ref": "AAAAAAF81oNAg0ZIw/o="
 							}
@@ -1534,7 +1534,7 @@
 							},
 							"name": "Dane pracownika lub asystenta",
 							"source": {
-								"$ref": "AAAAAAF81oY6nEZ0Hio="
+								"$ref": "AAAAAAF81nZZJ0ViSVA="
 							},
 							"target": {
 								"$ref": "AAAAAAF81ntue0WVf5Q="
