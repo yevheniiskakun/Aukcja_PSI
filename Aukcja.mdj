@@ -17,7 +17,281 @@
 					"_parent": {
 						"$ref": "AAAAAAF8jh2IfKhLE7s="
 					},
-					"name": "zerowy"
+					"name": "zerowy",
+					"ownedViews": [
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF81nNX50VAEiM=",
+							"_parent": {
+								"$ref": "AAAAAAF80h08lrj8HkE="
+							},
+							"model": {
+								"$ref": "AAAAAAF81nNX5kU+SWA="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF81nNX50VBE0c=",
+									"_parent": {
+										"$ref": "AAAAAAF81nNX50VAEiM="
+									},
+									"font": "Arial;13;0",
+									"left": 82,
+									"top": 474,
+									"width": 54.18994140625,
+									"height": 13,
+									"text": "Klient",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 72,
+							"top": 464,
+							"width": 74.18994140625,
+							"height": 33,
+							"nameLabel": {
+								"$ref": "AAAAAAF81nNX50VBE0c="
+							}
+						},
+						{
+							"_type": "FCConnectorView",
+							"_id": "AAAAAAF81nO4DkVK7GM=",
+							"_parent": {
+								"$ref": "AAAAAAF80h08lrj8HkE="
+							},
+							"model": {
+								"$ref": "AAAAAAF81nO4DkVIJ8k="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF81nO4DkVLUfk=",
+									"_parent": {
+										"$ref": "AAAAAAF81nO4DkVK7GM="
+									},
+									"font": "Arial;13;0",
+									"left": 196.25,
+									"top": 280.25,
+									"width": 40.5,
+									"height": 32.5,
+									"text": "Rejestracja klienta",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 176,
+							"top": 264,
+							"width": 81,
+							"height": 65,
+							"nameLabel": {
+								"$ref": "AAAAAAF81nO4DkVLUfk="
+							}
+						},
+						{
+							"_type": "FCConnectorView",
+							"_id": "AAAAAAF81nXK7EVYHPo=",
+							"_parent": {
+								"$ref": "AAAAAAF80h08lrj8HkE="
+							},
+							"model": {
+								"$ref": "AAAAAAF81nXK7EVW1Us="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF81nXK7EVZGKs=",
+									"_parent": {
+										"$ref": "AAAAAAF81nXK7EVYHPo="
+									},
+									"font": "Arial;13;0",
+									"left": 374.25634765625,
+									"top": 647.5,
+									"width": 44.5126953125,
+									"height": 31,
+									"text": "Rejestracja zamówień",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 352,
+							"top": 632,
+							"width": 89.025390625,
+							"height": 62,
+							"nameLabel": {
+								"$ref": "AAAAAAF81nXK7EVZGKs="
+							}
+						},
+						{
+							"_type": "FCConnectorView",
+							"_id": "AAAAAAF81nZZJ0Vkn94=",
+							"_parent": {
+								"$ref": "AAAAAAF80h08lrj8HkE="
+							},
+							"model": {
+								"$ref": "AAAAAAF81nZZJ0ViSVA="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF81nZZJ0VlOcs=",
+									"_parent": {
+										"$ref": "AAAAAAF81nZZJ0Vkn94="
+									},
+									"font": "Arial;13;0",
+									"left": 408.25,
+									"top": 272.25,
+									"width": 48.5,
+									"height": 32.5,
+									"text": "Rejestracja Pracownika",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 256,
+							"width": 97,
+							"height": 65,
+							"nameLabel": {
+								"$ref": "AAAAAAF81nZZJ0VlOcs="
+							}
+						},
+						{
+							"_type": "FCConnectorView",
+							"_id": "AAAAAAF81nm76UVxvog=",
+							"_parent": {
+								"$ref": "AAAAAAF80h08lrj8HkE="
+							},
+							"model": {
+								"$ref": "AAAAAAF81nm76EVvhL8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF81nm76UVydGs=",
+									"_parent": {
+										"$ref": "AAAAAAF81nm76UVxvog="
+									},
+									"font": "Arial;13;0",
+									"left": 624.25634765625,
+									"top": 268.25,
+									"width": 48.5126953125,
+									"height": 24.5,
+									"text": "Rejestracja dóbr",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 600,
+							"top": 256,
+							"width": 97.025390625,
+							"height": 49,
+							"nameLabel": {
+								"$ref": "AAAAAAF81nm76UVydGs="
+							}
+						},
+						{
+							"_type": "FCConnectorView",
+							"_id": "AAAAAAF81noXm0V9p0E=",
+							"_parent": {
+								"$ref": "AAAAAAF80h08lrj8HkE="
+							},
+							"model": {
+								"$ref": "AAAAAAF81noXm0V7NOA="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF81noXm0V+bNc=",
+									"_parent": {
+										"$ref": "AAAAAAF81noXm0V9p0E="
+									},
+									"font": "Arial;13;0",
+									"left": 788.25,
+									"top": 270.25,
+									"width": 56.5,
+									"height": 28.5,
+									"text": "Rejestracja prowizji",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 760,
+							"top": 256,
+							"width": 113,
+							"height": 57,
+							"nameLabel": {
+								"$ref": "AAAAAAF81noXm0V+bNc="
+							}
+						},
+						{
+							"_type": "FCConnectorView",
+							"_id": "AAAAAAF81nqUv0WKDew=",
+							"_parent": {
+								"$ref": "AAAAAAF80h08lrj8HkE="
+							},
+							"model": {
+								"$ref": "AAAAAAF81nqUv0WIDDQ="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF81nqUv0WLVFk=",
+									"_parent": {
+										"$ref": "AAAAAAF81nqUv0WKDew="
+									},
+									"font": "Arial;13;0",
+									"left": 992.25,
+									"top": 270.25,
+									"width": 64.5,
+									"height": 28.5,
+									"text": "Wygenerowanie raportu",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 960,
+							"top": 256,
+							"width": 129,
+							"height": 57,
+							"nameLabel": {
+								"$ref": "AAAAAAF81nqUv0WLVFk="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF81ntufEWX+pU=",
+							"_parent": {
+								"$ref": "AAAAAAF80h08lrj8HkE="
+							},
+							"model": {
+								"$ref": "AAAAAAF81ntue0WVf5Q="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF81ntufEWYp+I=",
+									"_parent": {
+										"$ref": "AAAAAAF81ntufEWX+pU="
+									},
+									"font": "Arial;13;0",
+									"left": 994,
+									"top": 378,
+									"width": 77,
+									"height": 26,
+									"text": "Dom aukcyjny",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 984,
+							"top": 368,
+							"width": 97,
+							"height": 57,
+							"nameLabel": {
+								"$ref": "AAAAAAF81ntufEWYp+I="
+							}
+						}
+					]
 				},
 				{
 					"_type": "FCFlowchartDiagram",
@@ -570,6 +844,70 @@
 						"$ref": "AAAAAAF8jh2IfKhLE7s="
 					},
 					"name": "Policja"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF81nNX5kU+SWA=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Klient"
+				},
+				{
+					"_type": "FCConnector",
+					"_id": "AAAAAAF81nO4DkVIJ8k=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Rejestracja klienta"
+				},
+				{
+					"_type": "FCConnector",
+					"_id": "AAAAAAF81nXK7EVW1Us=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Rejestracja zamówień"
+				},
+				{
+					"_type": "FCConnector",
+					"_id": "AAAAAAF81nZZJ0ViSVA=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Rejestracja Pracownika"
+				},
+				{
+					"_type": "FCConnector",
+					"_id": "AAAAAAF81nm76EVvhL8=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Rejestracja dóbr"
+				},
+				{
+					"_type": "FCConnector",
+					"_id": "AAAAAAF81noXm0V7NOA=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Rejestracja prowizji"
+				},
+				{
+					"_type": "FCConnector",
+					"_id": "AAAAAAF81nqUv0WIDDQ=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Wygenerowanie raportu"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF81ntue0WVf5Q=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Dom aukcyjny"
 				}
 			]
 		},
@@ -643,7 +981,7 @@
 									"left": 122,
 									"top": 146,
 									"width": 125,
-									"height": 26,
+									"height": 13,
 									"text": "1 - Rejestracja klientów",
 									"wordWrap": true
 								}
@@ -1117,7 +1455,7 @@
 									"left": 258,
 									"top": 242,
 									"width": 101,
-									"height": 26,
+									"height": 13,
 									"text": "1.1 - Dodaj klienta",
 									"wordWrap": true
 								}
@@ -1201,7 +1539,7 @@
 									"left": 258,
 									"top": 386,
 									"width": 101,
-									"height": 26,
+									"height": 13,
 									"text": "1.3 - Usuń klienta",
 									"wordWrap": true
 								}
@@ -1367,7 +1705,7 @@
 									"left": 1978,
 									"top": 322,
 									"width": 125,
-									"height": 26,
+									"height": 13,
 									"text": "6.2 - Wyslanie raportu",
 									"wordWrap": true
 								}
