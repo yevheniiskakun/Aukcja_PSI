@@ -37,7 +37,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 98,
-									"top": 450,
+									"top": 290,
 									"width": 182.18994140625,
 									"height": 13,
 									"text": "Klient",
@@ -46,7 +46,7 @@
 							],
 							"font": "Arial;13;0",
 							"left": 88,
-							"top": 440,
+							"top": 280,
 							"width": 202.18994140625,
 							"height": 33,
 							"nameLabel": {
@@ -71,7 +71,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 228.25,
-									"top": 296.25,
+									"top": 512.25,
 									"width": 40.5,
 									"height": 32.5,
 									"text": "Rejestracja klienta",
@@ -80,7 +80,7 @@
 							],
 							"font": "Arial;13;0",
 							"left": 208,
-							"top": 280,
+							"top": 496,
 							"width": 81,
 							"height": 65,
 							"nameLabel": {
@@ -345,8 +345,8 @@
 										"$ref": "AAAAAAF81n8z7kXOFO8="
 									},
 									"font": "Arial;13;0",
-									"left": 254,
-									"top": 383,
+									"left": 171,
+									"top": 400,
 									"width": 72.26806640625,
 									"height": 13,
 									"alpha": -1.5232130562586992,
@@ -366,7 +366,7 @@
 								"$ref": "AAAAAAF81nNX50VAEiM="
 							},
 							"lineStyle": 2,
-							"points": "249:440;249:344",
+							"points": "249:312;249:496",
 							"nameLabel": {
 								"$ref": "AAAAAAF81n8z70XR2xY="
 							}
@@ -391,8 +391,8 @@
 										"$ref": "AAAAAAF81n/d20XanXg="
 									},
 									"font": "Arial;13;0",
-									"left": 343,
-									"top": 432,
+									"left": 310,
+									"top": 223,
 									"width": 87.45166015625,
 									"height": 13,
 									"alpha": -4.862760347500146,
@@ -412,7 +412,7 @@
 								"$ref": "AAAAAAF81nNX50VAEiM="
 							},
 							"lineStyle": 2,
-							"points": "289:448;453:448;453:320",
+							"points": "289:296;400:296",
 							"nameLabel": {
 								"$ref": "AAAAAAF81n/d20XdHas="
 							}
@@ -640,7 +640,7 @@
 								"$ref": "AAAAAAF81nNX50VAEiM="
 							},
 							"lineStyle": 2,
-							"points": "96:472;96:952;832:952;832:688",
+							"points": "96:312;96:952;832:952;832:688",
 							"nameLabel": {
 								"$ref": "AAAAAAF81oNAg0ZIw/o="
 							}
@@ -902,6 +902,52 @@
 							"points": "1064:616;1064:208;520:208;520:504",
 							"nameLabel": {
 								"$ref": "AAAAAAF81ohA3Eas+ak="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF8+nN6zY55d9k=",
+							"_parent": {
+								"$ref": "AAAAAAF80h08lrj8HkE="
+							},
+							"model": {
+								"$ref": "AAAAAAF8+nN6zY53tEo="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF8+nN6zY56BVw=",
+									"_parent": {
+										"$ref": "AAAAAAF8+nN6zY55d9k="
+									},
+									"model": {
+										"$ref": "AAAAAAF8+nN6zY53tEo="
+									},
+									"font": "Arial;13;0",
+									"left": 320,
+									"top": 507,
+									"width": 72.26806640625,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF8+nN6zY55d9k="
+									},
+									"edgePosition": 1,
+									"text": "Dane klienta"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF81ntufEWX+pU="
+							},
+							"tail": {
+								"$ref": "AAAAAAF81nO4DkVK7GM="
+							},
+							"lineStyle": 2,
+							"points": "288:528;424:528",
+							"nameLabel": {
+								"$ref": "AAAAAAF8+nN6zY56BVw="
 							}
 						}
 					]
@@ -5237,7 +5283,23 @@
 					"_parent": {
 						"$ref": "AAAAAAF8jh2IfKhLE7s="
 					},
-					"name": "Rejestracja klienta"
+					"name": "Rejestracja klienta",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF8+nN6zY53tEo=",
+							"_parent": {
+								"$ref": "AAAAAAF81nO4DkVIJ8k="
+							},
+							"name": "Dane klienta",
+							"source": {
+								"$ref": "AAAAAAF81nO4DkVIJ8k="
+							},
+							"target": {
+								"$ref": "AAAAAAF81ntue0WVf5Q="
+							}
+						}
+					]
 				},
 				{
 					"_type": "FCConnector",
