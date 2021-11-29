@@ -139,18 +139,18 @@
 									},
 									"font": "Arial;13;0",
 									"left": 632.25634765625,
-									"top": 284.25,
+									"top": 254.25,
 									"width": 48.5126953125,
-									"height": 24.5,
+									"height": 44.5,
 									"text": "Rejestracja dóbr",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 608,
-							"top": 272,
+							"top": 232,
 							"width": 97.025390625,
-							"height": 49,
+							"height": 89,
 							"nameLabel": {
 								"$ref": "AAAAAAF81nm76UVydGs="
 							}
@@ -275,18 +275,18 @@
 									},
 									"font": "Arial;13;0",
 									"left": 424.25634765625,
-									"top": 284.25,
+									"top": 254.25,
 									"width": 48.5126953125,
-									"height": 24.5,
+									"height": 44.5,
 									"text": "Rejestracja kategorii",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;13;0",
 							"left": 400,
-							"top": 272,
+							"top": 232,
 							"width": 97.025390625,
-							"height": 49,
+							"height": 89,
 							"nameLabel": {
 								"$ref": "AAAAAAF81ny1NUWlUCU="
 							}
@@ -978,520 +978,84 @@
 									},
 									"font": "Arial;18;0",
 									"left": 796.25,
-									"top": 514.25,
+									"top": 478.25,
 									"width": 120.5,
-									"height": 84.5,
+									"height": 108.5,
 									"text": "System zarządzania domem aukcyjnym",
 									"wordWrap": true
 								}
 							],
 							"font": "Arial;18;0",
 							"left": 736,
-							"top": 472,
+							"top": 424,
 							"width": 241,
-							"height": 169,
+							"height": 217,
 							"nameLabel": {
 								"$ref": "AAAAAAF80kHuOblESdI="
 							}
 						},
 						{
-							"_type": "FCAlternateProcessView",
-							"_id": "AAAAAAF80kLzKrlQDVk=",
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF9KADVIBsB4lQ=",
 							"_parent": {
 								"$ref": "AAAAAAF80h4vjLkzAVQ="
 							},
 							"model": {
-								"$ref": "AAAAAAF80kLzKblOrBI="
+								"$ref": "AAAAAAF9KADVIBr/CWQ="
 							},
 							"subViews": [
 								{
 									"_type": "LabelView",
-									"_id": "AAAAAAF80kLzKrlROPA=",
+									"_id": "AAAAAAF9KADVIRsC+4Y=",
 									"_parent": {
-										"$ref": "AAAAAAF80kLzKrlQDVk="
+										"$ref": "AAAAAAF9KADVIBsB4lQ="
 									},
-									"font": "Arial;18;0",
-									"left": 410,
-									"top": 410,
-									"width": 106.2216796875,
-									"height": 18,
+									"font": "Arial;20;0",
+									"left": 386,
+									"top": 426,
+									"width": 174.18994140625,
+									"height": 20,
 									"text": "Klient",
 									"wordWrap": true
 								}
 							],
-							"font": "Arial;18;0",
-							"left": 400,
-							"top": 400,
-							"width": 126.2216796875,
-							"height": 38,
+							"font": "Arial;20;0",
+							"left": 376,
+							"top": 416,
+							"width": 194.18994140625,
+							"height": 41,
 							"nameLabel": {
-								"$ref": "AAAAAAF80kLzKrlROPA="
-							}
-						},
-						{
-							"_type": "FCAlternateProcessView",
-							"_id": "AAAAAAF80kMvJblaBMw=",
-							"_parent": {
-								"$ref": "AAAAAAF80h4vjLkzAVQ="
-							},
-							"model": {
-								"$ref": "AAAAAAF80kMvJblY7tM="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAF80kMvJblbdzI=",
-									"_parent": {
-										"$ref": "AAAAAAF80kMvJblaBMw="
-									},
-									"font": "Arial;18;0",
-									"left": 1162,
-									"top": 410,
-									"width": 106.2216796875,
-									"height": 18,
-									"text": "Pracownik",
-									"wordWrap": true
-								}
-							],
-							"font": "Arial;18;0",
-							"left": 1152,
-							"top": 400,
-							"width": 126.2216796875,
-							"height": 38,
-							"nameLabel": {
-								"$ref": "AAAAAAF80kMvJblbdzI="
+								"$ref": "AAAAAAF9KADVIRsC+4Y="
 							}
 						},
 						{
 							"_type": "FCFlowView",
-							"_id": "AAAAAAF80kd/hblzCns=",
+							"_id": "AAAAAAF9KAFGlBsP+Cg=",
 							"_parent": {
 								"$ref": "AAAAAAF80h4vjLkzAVQ="
 							},
 							"model": {
-								"$ref": "AAAAAAF80kd/hLlx/I8="
+								"$ref": "AAAAAAF9KAFGlBsNBCQ="
 							},
 							"subViews": [
 								{
 									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF80kd/hbl0OAA=",
+									"_id": "AAAAAAF9KAFGlBsQ0Ig=",
 									"_parent": {
-										"$ref": "AAAAAAF80kd/hblzCns="
+										"$ref": "AAAAAAF9KAFGlBsP+Cg="
 									},
 									"model": {
-										"$ref": "AAAAAAF80kd/hLlx/I8="
+										"$ref": "AAAAAAF9KAFGlBsNBCQ="
 									},
 									"font": "Arial;13;0",
-									"left": 1015,
-									"top": 543,
-									"width": 180.66064453125,
-									"height": 13,
-									"alpha": -0.1636605980230117,
-									"distance": 110.47624178980746,
-									"hostEdge": {
-										"$ref": "AAAAAAF80kd/hblzCns="
-									},
-									"edgePosition": 1,
-									"text": "Dane pracownika lub asystenta"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAF80kHuOblDqlo="
-							},
-							"tail": {
-								"$ref": "AAAAAAF80kMvJblaBMw="
-							},
-							"lineStyle": 2,
-							"points": "1214:437;1214:568;976:568",
-							"nameLabel": {
-								"$ref": "AAAAAAF80kd/hbl0OAA="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAF80kidHLmBvuE=",
-							"_parent": {
-								"$ref": "AAAAAAF80h4vjLkzAVQ="
-							},
-							"model": {
-								"$ref": "AAAAAAF80kidHLl/vo4="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF80kidHLmCoAg=",
-									"_parent": {
-										"$ref": "AAAAAAF80kidHLmBvuE="
-									},
-									"model": {
-										"$ref": "AAAAAAF80kidHLl/vo4="
-									},
-									"font": "Arial;13;0",
-									"left": 567,
-									"top": 544,
-									"width": 72.26806640625,
-									"height": 13,
-									"alpha": 0.13452099292341219,
-									"distance": 134.21251804507656,
-									"hostEdge": {
-										"$ref": "AAAAAAF80kidHLmBvuE="
-									},
-									"edgePosition": 1,
-									"text": "Dane klienta"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAF80kHuOblDqlo="
-							},
-							"tail": {
-								"$ref": "AAAAAAF80kLzKrlQDVk="
-							},
-							"lineStyle": 2,
-							"points": "470:437;470:568;736:568",
-							"nameLabel": {
-								"$ref": "AAAAAAF80kidHLmCoAg="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAF80kl9hLmc2cc=",
-							"_parent": {
-								"$ref": "AAAAAAF80h4vjLkzAVQ="
-							},
-							"model": {
-								"$ref": "AAAAAAF80kl9hLma0pI="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF80kl9hLmdxN4=",
-									"_parent": {
-										"$ref": "AAAAAAF80kl9hLmc2cc="
-									},
-									"model": {
-										"$ref": "AAAAAAF80kl9hLma0pI="
-									},
-									"font": "Arial;13;0",
-									"left": 552,
-									"top": 512,
-									"width": 101.87353515625,
-									"height": 13,
-									"alpha": 0.13552770384351365,
-									"distance": 133.2216198670471,
-									"hostEdge": {
-										"$ref": "AAAAAAF80kl9hLmc2cc="
-									},
-									"edgePosition": 1,
-									"text": "Rejestracja aukcji"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAF80kHuOblDqlo="
-							},
-							"tail": {
-								"$ref": "AAAAAAF80kLzKrlQDVk="
-							},
-							"lineStyle": 2,
-							"points": "470:437;470:536;736:536",
-							"nameLabel": {
-								"$ref": "AAAAAAF80kl9hLmdxN4="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAF80k/mnrm+lOU=",
-							"_parent": {
-								"$ref": "AAAAAAF80h4vjLkzAVQ="
-							},
-							"model": {
-								"$ref": "AAAAAAF80k/mnbm8/ss="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF80k/mnrm/vgQ=",
-									"_parent": {
-										"$ref": "AAAAAAF80k/mnrm+lOU="
-									},
-									"model": {
-										"$ref": "AAAAAAF80k/mnbm8/ss="
-									},
-									"font": "Arial;13;0",
-									"left": 1030,
-									"top": 506,
-									"width": 112.00439453125,
-									"height": 13,
-									"alpha": -5.010887811020607,
-									"distance": 81.60882305241266,
-									"hostEdge": {
-										"$ref": "AAAAAAF80k/mnrm+lOU="
-									},
-									"edgePosition": 1,
-									"text": "Sprawdzenie aukcji"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAF80kMvJblaBMw="
-							},
-							"tail": {
-								"$ref": "AAAAAAF80kHuOblDqlo="
-							},
-							"lineStyle": 2,
-							"points": "976:536;1165:536;1165:437",
-							"nameLabel": {
-								"$ref": "AAAAAAF80k/mnrm/vgQ="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAF8+mleTI5k9sQ=",
-							"_parent": {
-								"$ref": "AAAAAAF80h4vjLkzAVQ="
-							},
-							"model": {
-								"$ref": "AAAAAAF8+mleS45iaww="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF8+mleTI5lYsA=",
-									"_parent": {
-										"$ref": "AAAAAAF8+mleTI5k9sQ="
-									},
-									"model": {
-										"$ref": "AAAAAAF8+mleS45iaww="
-									},
-									"font": "Arial;13;0",
-									"left": 536,
-									"top": 475,
-									"width": 121.39892578125,
-									"height": 13,
-									"alpha": 0.18534792735418806,
-									"distance": 81.39410298049853,
-									"hostEdge": {
-										"$ref": "AAAAAAF8+mleTI5k9sQ="
-									},
-									"edgePosition": 1,
-									"text": "Rejestracja depozytu"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAF80kHuOblDqlo="
-							},
-							"tail": {
-								"$ref": "AAAAAAF80kLzKrlQDVk="
-							},
-							"lineStyle": 2,
-							"points": "516:437;516:496;736:496",
-							"nameLabel": {
-								"$ref": "AAAAAAF8+mleTI5lYsA="
-							}
-						},
-						{
-							"_type": "FCTerminatorView",
-							"_id": "AAAAAAF8+nZQYI1+cuY=",
-							"_parent": {
-								"$ref": "AAAAAAF80h4vjLkzAVQ="
-							},
-							"model": {
-								"$ref": "AAAAAAF8+nZQX418ziA="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAF8+nZQYI1/Fu8=",
-									"_parent": {
-										"$ref": "AAAAAAF8+nZQYI1+cuY="
-									},
-									"font": "Arial;18;0",
-									"left": 762,
-									"top": 202,
-									"width": 160.0263671875,
-									"height": 18,
-									"text": "Dom Aukcyjny",
-									"wordWrap": true
-								}
-							],
-							"font": "Arial;18;0",
-							"left": 752,
-							"top": 192,
-							"width": 180.0263671875,
-							"height": 38,
-							"nameLabel": {
-								"$ref": "AAAAAAF8+nZQYI1/Fu8="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAF8+ndnlI2RiZY=",
-							"_parent": {
-								"$ref": "AAAAAAF80h4vjLkzAVQ="
-							},
-							"model": {
-								"$ref": "AAAAAAF8+ndnlI2Pi/c="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF8+ndnlI2S6AI=",
-									"_parent": {
-										"$ref": "AAAAAAF8+ndnlI2RiZY="
-									},
-									"model": {
-										"$ref": "AAAAAAF8+ndnlI2Pi/c="
-									},
-									"font": "Arial;13;0",
-									"left": 743,
-									"top": 343,
-									"width": 111.97900390625,
-									"height": 13,
-									"alpha": -4.736774250575177,
-									"distance": 41.012193308819754,
-									"hostEdge": {
-										"$ref": "AAAAAAF8+ndnlI2RiZY="
-									},
-									"edgePosition": 1,
-									"text": "Prowizja"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAF8+nZQYI1+cuY="
-							},
-							"tail": {
-								"$ref": "AAAAAAF80kHuOblDqlo="
-							},
-							"lineStyle": 2,
-							"points": "840:472;840:229",
-							"nameLabel": {
-								"$ref": "AAAAAAF8+ndnlI2S6AI="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAF8+ohVLY2wmpU=",
-							"_parent": {
-								"$ref": "AAAAAAF80h4vjLkzAVQ="
-							},
-							"model": {
-								"$ref": "AAAAAAF8+ohVLY2ummo="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF8+ohVLY2xi8s=",
-									"_parent": {
-										"$ref": "AAAAAAF8+ohVLY2wmpU="
-									},
-									"model": {
-										"$ref": "AAAAAAF8+ohVLY2ummo="
-									},
-									"font": "Arial;13;0",
-									"left": 879,
-									"top": 341,
-									"width": 45.51904296875,
-									"height": 13,
-									"alpha": -1.5042280402154231,
-									"distance": 30.066592756745816,
-									"hostEdge": {
-										"$ref": "AAAAAAF8+ohVLY2wmpU="
-									},
-									"edgePosition": 1,
-									"text": "Raporty"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAF8+nZQYI1+cuY="
-							},
-							"tail": {
-								"$ref": "AAAAAAF80kHuOblDqlo="
-							},
-							"lineStyle": 2,
-							"points": "872:472;872:229",
-							"nameLabel": {
-								"$ref": "AAAAAAF8+ohVLY2xi8s="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAF8+onKWI3AkjU=",
-							"_parent": {
-								"$ref": "AAAAAAF80h4vjLkzAVQ="
-							},
-							"model": {
-								"$ref": "AAAAAAF8+onKWI2+A9w="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF8+onKWI3BNiU=",
-									"_parent": {
-										"$ref": "AAAAAAF8+onKWI3AkjU="
-									},
-									"model": {
-										"$ref": "AAAAAAF8+onKWI2+A9w="
-									},
-									"font": "Arial;13;0",
-									"left": 607,
-									"top": 340,
-									"width": 143.0634765625,
-									"height": 13,
-									"alpha": -4.761731473791924,
-									"distance": 81.09870529176159,
-									"hostEdge": {
-										"$ref": "AAAAAAF8+onKWI3AkjU="
-									},
-									"edgePosition": 1,
-									"text": "Ewidencja użytkowników"
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAF8+nZQYI1+cuY="
-							},
-							"tail": {
-								"$ref": "AAAAAAF80kHuOblDqlo="
-							},
-							"lineStyle": 2,
-							"points": "760:472;760:229",
-							"nameLabel": {
-								"$ref": "AAAAAAF8+onKWI3BNiU="
-							}
-						},
-						{
-							"_type": "FCFlowView",
-							"_id": "AAAAAAF8+orO1o3MlhM=",
-							"_parent": {
-								"$ref": "AAAAAAF80h4vjLkzAVQ="
-							},
-							"model": {
-								"$ref": "AAAAAAF8+orO1o3KluY="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF8+orO1o3N7w8=",
-									"_parent": {
-										"$ref": "AAAAAAF8+orO1o3MlhM="
-									},
-									"model": {
-										"$ref": "AAAAAAF8+orO1o3KluY="
-									},
-									"font": "Arial;13;0",
-									"left": 439,
-									"top": 623,
+									"left": 559,
+									"top": 495,
 									"width": 78.76806640625,
 									"height": 13,
-									"alpha": -1.7681917978225605,
-									"distance": 71.386273190299,
+									"alpha": -1.3521272478677282,
+									"distance": 64.53681120105021,
 									"hostEdge": {
-										"$ref": "AAAAAAF8+orO1o3MlhM="
+										"$ref": "AAAAAAF9KAFGlBsP+Cg="
 									},
 									"edgePosition": 1,
 									"text": "Dane o aukcji"
@@ -1499,45 +1063,45 @@
 							],
 							"font": "Arial;13;0",
 							"head": {
-								"$ref": "AAAAAAF80kLzKrlQDVk="
+								"$ref": "AAAAAAF9KADVIBsB4lQ="
 							},
 							"tail": {
 								"$ref": "AAAAAAF80kHuOblDqlo="
 							},
 							"lineStyle": 2,
-							"points": "736:616;408:616;408:437",
+							"points": "736:516;536:516;536:456",
 							"nameLabel": {
-								"$ref": "AAAAAAF8+orO1o3N7w8="
+								"$ref": "AAAAAAF9KAFGlBsQ0Ig="
 							}
 						},
 						{
 							"_type": "FCFlowView",
-							"_id": "AAAAAAF8+ouyiI3bXCo=",
+							"_id": "AAAAAAF9KAF/9xsakJw=",
 							"_parent": {
 								"$ref": "AAAAAAF80h4vjLkzAVQ="
 							},
 							"model": {
-								"$ref": "AAAAAAF8+ouyiI3ZqC0="
+								"$ref": "AAAAAAF9KAF/9xsYTPM="
 							},
 							"subViews": [
 								{
 									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF8+ouyiY3ctXk=",
+									"_id": "AAAAAAF9KAF/9xsbA4g=",
 									"_parent": {
-										"$ref": "AAAAAAF8+ouyiI3bXCo="
+										"$ref": "AAAAAAF9KAF/9xsakJw="
 									},
 									"model": {
-										"$ref": "AAAAAAF8+ouyiI3ZqC0="
+										"$ref": "AAAAAAF9KAF/9xsYTPM="
 									},
 									"font": "Arial;13;0",
-									"left": 576,
-									"top": 571,
+									"left": 584,
+									"top": 531,
 									"width": 55.64990234375,
 									"height": 13,
-									"alpha": 0.10168884489305825,
-									"distance": 147.763324272297,
+									"alpha": 0.15037141304603488,
+									"distance": 100.12991560967181,
 									"hostEdge": {
-										"$ref": "AAAAAAF8+ouyiI3bXCo="
+										"$ref": "AAAAAAF9KAF/9xsakJw="
 									},
 									"edgePosition": 1,
 									"text": "Kategorie"
@@ -1548,42 +1112,306 @@
 								"$ref": "AAAAAAF80kHuOblDqlo="
 							},
 							"tail": {
-								"$ref": "AAAAAAF80kLzKrlQDVk="
+								"$ref": "AAAAAAF9KADVIBsB4lQ="
 							},
 							"lineStyle": 2,
-							"points": "456:437;456:592;736:592",
+							"points": "512:456;512:552;736:552",
 							"nameLabel": {
-								"$ref": "AAAAAAF8+ouyiY3ctXk="
+								"$ref": "AAAAAAF9KAF/9xsbA4g="
 							}
 						},
 						{
 							"_type": "FCFlowView",
-							"_id": "AAAAAAF8+pGtuo3zjPU=",
+							"_id": "AAAAAAF9KAJgwBsoi6I=",
 							"_parent": {
 								"$ref": "AAAAAAF80h4vjLkzAVQ="
 							},
 							"model": {
-								"$ref": "AAAAAAF8+pGtuo3x2dI="
+								"$ref": "AAAAAAF9KAJgwBsmDcU="
 							},
 							"subViews": [
 								{
 									"_type": "EdgeLabelView",
-									"_id": "AAAAAAF8+pGtu430op8=",
+									"_id": "AAAAAAF9KAJgwBspE/Q=",
 									"_parent": {
-										"$ref": "AAAAAAF8+pGtuo3zjPU="
+										"$ref": "AAAAAAF9KAJgwBsoi6I="
 									},
 									"model": {
-										"$ref": "AAAAAAF8+pGtuo3x2dI="
+										"$ref": "AAAAAAF9KAJgwBsmDcU="
 									},
 									"font": "Arial;13;0",
-									"left": 943,
-									"top": 347,
-									"width": 34.67724609375,
+									"left": 560,
+									"top": 568,
+									"width": 121.39892578125,
 									"height": 13,
-									"alpha": -1.6951511379525952,
-									"distance": 32.2490309931942,
+									"alpha": 0.11487659811762951,
+									"distance": 157.0350279396288,
 									"hostEdge": {
-										"$ref": "AAAAAAF8+pGtuo3zjPU="
+										"$ref": "AAAAAAF9KAJgwBsoi6I="
+									},
+									"edgePosition": 1,
+									"text": "Rejestracja depozytu"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF80kHuOblDqlo="
+							},
+							"tail": {
+								"$ref": "AAAAAAF9KADVIBsB4lQ="
+							},
+							"lineStyle": 2,
+							"points": "464:456;464:592;736:592",
+							"nameLabel": {
+								"$ref": "AAAAAAF9KAJgwBspE/Q="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF9KALclBs4YIY=",
+							"_parent": {
+								"$ref": "AAAAAAF80h4vjLkzAVQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF9KALclBs2XE4="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF9KALclBs5nD4=",
+									"_parent": {
+										"$ref": "AAAAAAF9KALclBs4YIY="
+									},
+									"model": {
+										"$ref": "AAAAAAF9KALclBs2XE4="
+									},
+									"font": "Arial;13;0",
+									"left": 580,
+									"top": 667,
+									"width": 72.26806640625,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF9KALclBs4YIY="
+									},
+									"edgePosition": 1,
+									"text": "Dane klienta"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF80kHuOblDqlo="
+							},
+							"tail": {
+								"$ref": "AAAAAAF9KADVIBsB4lQ="
+							},
+							"lineStyle": 2,
+							"points": "440:456;440:688;792:688;792:640",
+							"nameLabel": {
+								"$ref": "AAAAAAF9KALclBs5nD4="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF9KAOHgBtI7Kw=",
+							"_parent": {
+								"$ref": "AAAAAAF80h4vjLkzAVQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF9KAOHgBtG0ao="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF9KAOHgBtJX54=",
+									"_parent": {
+										"$ref": "AAAAAAF9KAOHgBtI7Kw="
+									},
+									"model": {
+										"$ref": "AAAAAAF9KAOHgBtG0ao="
+									},
+									"font": "Arial;13;0",
+									"left": 570,
+									"top": 731,
+									"width": 101.87353515625,
+									"height": 13,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAF9KAOHgBtI7Kw="
+									},
+									"edgePosition": 1,
+									"text": "Rejestracja aukcji"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF80kHuOblDqlo="
+							},
+							"tail": {
+								"$ref": "AAAAAAF9KADVIBsB4lQ="
+							},
+							"lineStyle": 2,
+							"points": "392:456;392:752;848:752;848:640",
+							"nameLabel": {
+								"$ref": "AAAAAAF9KAOHgBtJX54="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF9KARnchtZj9A=",
+							"_parent": {
+								"$ref": "AAAAAAF80h4vjLkzAVQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF9KARncRtXpL8="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF9KARnchtatE8=",
+									"_parent": {
+										"$ref": "AAAAAAF9KARnchtZj9A="
+									},
+									"font": "Arial;20;0",
+									"left": 778,
+									"top": 210,
+									"width": 152.029296875,
+									"height": 20,
+									"text": "Dom Aukcyjny",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;20;0",
+							"left": 768,
+							"top": 200,
+							"width": 172.029296875,
+							"height": 41,
+							"nameLabel": {
+								"$ref": "AAAAAAF9KARnchtatE8="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF9KAVHThuLmNw=",
+							"_parent": {
+								"$ref": "AAAAAAF80h4vjLkzAVQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF9KAVHTRuJVvI="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF9KAVHThuMQ60=",
+									"_parent": {
+										"$ref": "AAAAAAF9KAVHThuLmNw="
+									},
+									"model": {
+										"$ref": "AAAAAAF9KAVHTRuJVvI="
+									},
+									"font": "Arial;13;0",
+									"left": 791,
+									"top": 325,
+									"width": 49.12451171875,
+									"height": 13,
+									"alpha": -4.73940935066433,
+									"distance": 37.013511046643494,
+									"hostEdge": {
+										"$ref": "AAAAAAF9KAVHThuLmNw="
+									},
+									"edgePosition": 1,
+									"text": "Prowizja"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF9KARnchtZj9A="
+							},
+							"tail": {
+								"$ref": "AAAAAAF80kHuOblDqlo="
+							},
+							"lineStyle": 2,
+							"points": "853:424;853:240",
+							"nameLabel": {
+								"$ref": "AAAAAAF9KAVHThuMQ60="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF9KAV6BBuWO/0=",
+							"_parent": {
+								"$ref": "AAAAAAF80h4vjLkzAVQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF9KAV6BBuUxq0="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF9KAV6BBuXPvQ=",
+									"_parent": {
+										"$ref": "AAAAAAF9KAV6BBuWO/0="
+									},
+									"model": {
+										"$ref": "AAAAAAF9KAV6BBuUxq0="
+									},
+									"font": "Arial;13;0",
+									"left": 855,
+									"top": 325,
+									"width": 45.51904296875,
+									"height": 13,
+									"alpha": -4.741792191024843,
+									"distance": 34.0147027033899,
+									"hostEdge": {
+										"$ref": "AAAAAAF9KAV6BBuWO/0="
+									},
+									"edgePosition": 1,
+									"text": "Raporty"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF9KARnchtZj9A="
+							},
+							"tail": {
+								"$ref": "AAAAAAF80kHuOblDqlo="
+							},
+							"lineStyle": 2,
+							"points": "912:424;912:240",
+							"nameLabel": {
+								"$ref": "AAAAAAF9KAV6BBuXPvQ="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF9KA1vBhuj6+0=",
+							"_parent": {
+								"$ref": "AAAAAAF80h4vjLkzAVQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF9KA1vBhuhX6k="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF9KA1vBhukBq8=",
+									"_parent": {
+										"$ref": "AAAAAAF9KA1vBhuj6+0="
+									},
+									"model": {
+										"$ref": "AAAAAAF9KA1vBhuhX6k="
+									},
+									"font": "Arial;13;0",
+									"left": 726,
+									"top": 325,
+									"width": 35.3818359375,
+									"height": 13,
+									"alpha": -4.743628737364162,
+									"distance": 32.01562118716424,
+									"hostEdge": {
+										"$ref": "AAAAAAF9KA1vBhuj6+0="
 									},
 									"edgePosition": 1,
 									"text": "Aukcji"
@@ -1591,15 +1419,187 @@
 							],
 							"font": "Arial;13;0",
 							"head": {
-								"$ref": "AAAAAAF8+nZQYI1+cuY="
+								"$ref": "AAAAAAF9KARnchtZj9A="
 							},
 							"tail": {
 								"$ref": "AAAAAAF80kHuOblDqlo="
 							},
 							"lineStyle": 2,
-							"points": "928:472;928:229",
+							"points": "776:424;776:240",
 							"nameLabel": {
-								"$ref": "AAAAAAF8+pGtu430op8="
+								"$ref": "AAAAAAF9KA1vBhukBq8="
+							}
+						},
+						{
+							"_type": "FCProcessView",
+							"_id": "AAAAAAF9KA4DSBu+IWg=",
+							"_parent": {
+								"$ref": "AAAAAAF80h4vjLkzAVQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF9KA4DRxu81WI="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAF9KA4DSBu/+eM=",
+									"_parent": {
+										"$ref": "AAAAAAF9KA4DSBu+IWg="
+									},
+									"font": "Arial;20;0",
+									"left": 1130,
+									"top": 442,
+									"width": 92.255859375,
+									"height": 20,
+									"text": "Pracownik",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;20;0",
+							"left": 1120,
+							"top": 432,
+							"width": 112.255859375,
+							"height": 40,
+							"nameLabel": {
+								"$ref": "AAAAAAF9KA4DSBu/+eM="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF9KA4+ixvJMz4=",
+							"_parent": {
+								"$ref": "AAAAAAF80h4vjLkzAVQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF9KA4+ixvHNrM="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF9KA4+ixvK8/0=",
+									"_parent": {
+										"$ref": "AAAAAAF9KA4+ixvJMz4="
+									},
+									"model": {
+										"$ref": "AAAAAAF9KA4+ixvHNrM="
+									},
+									"font": "Arial;13;0",
+									"left": 1031,
+									"top": 495,
+									"width": 100.4453125,
+									"height": 13,
+									"alpha": -0.19982866969974422,
+									"distance": 80.60397012554654,
+									"hostEdge": {
+										"$ref": "AAAAAAF9KA4+ixvJMz4="
+									},
+									"edgePosition": 1,
+									"text": "Dane pracownika"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF80kHuOblDqlo="
+							},
+							"tail": {
+								"$ref": "AAAAAAF9KA4DSBu+IWg="
+							},
+							"lineStyle": 2,
+							"points": "1160:471;1160:518;976:518",
+							"nameLabel": {
+								"$ref": "AAAAAAF9KA4+ixvK8/0="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF9KA7DxRvUjB0=",
+							"_parent": {
+								"$ref": "AAAAAAF80h4vjLkzAVQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF9KA7DxBvSzTw="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF9KA7DxRvV2kA=",
+									"_parent": {
+										"$ref": "AAAAAAF9KA7DxRvUjB0="
+									},
+									"model": {
+										"$ref": "AAAAAAF9KA7DxBvSzTw="
+									},
+									"font": "Arial;13;0",
+									"left": 1031,
+									"top": 536,
+									"width": 67.92626953125,
+									"height": 13,
+									"alpha": -4.862511366467551,
+									"distance": 120.3536455617361,
+									"hostEdge": {
+										"$ref": "AAAAAAF9KA7DxRvUjB0="
+									},
+									"edgePosition": 1,
+									"text": "Dane aukcji"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF9KA4DSBu+IWg="
+							},
+							"tail": {
+								"$ref": "AAAAAAF80kHuOblDqlo="
+							},
+							"lineStyle": 2,
+							"points": "976:560;1184:560;1184:471",
+							"nameLabel": {
+								"$ref": "AAAAAAF9KA7DxRvV2kA="
+							}
+						},
+						{
+							"_type": "FCFlowView",
+							"_id": "AAAAAAF9bGQSaqezGXE=",
+							"_parent": {
+								"$ref": "AAAAAAF80h4vjLkzAVQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF9bGQSaaex244="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAF9bGQSaqe0+h4=",
+									"_parent": {
+										"$ref": "AAAAAAF9bGQSaqezGXE="
+									},
+									"model": {
+										"$ref": "AAAAAAF9bGQSaaex244="
+									},
+									"font": "Arial;13;0",
+									"left": 1031,
+									"top": 576,
+									"width": 75.13720703125,
+									"height": 13,
+									"alpha": -4.784207609222691,
+									"distance": 139.35924798878617,
+									"hostEdge": {
+										"$ref": "AAAAAAF9bGQSaqezGXE="
+									},
+									"edgePosition": 1,
+									"text": "Kwota premii"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF9KA4DSBu+IWg="
+							},
+							"tail": {
+								"$ref": "AAAAAAF80kHuOblDqlo="
+							},
+							"lineStyle": 2,
+							"points": "976:592;1208:592;1208:471",
+							"nameLabel": {
+								"$ref": "AAAAAAF9bGQSaqe0+h4="
 							}
 						}
 					]
@@ -5385,63 +5385,7 @@
 					"ownedElements": [
 						{
 							"_type": "FCFlow",
-							"_id": "AAAAAAF80k/mnbm8/ss=",
-							"_parent": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
-							},
-							"name": "Sprawdzenie aukcji",
-							"source": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
-							},
-							"target": {
-								"$ref": "AAAAAAF80kMvJblY7tM="
-							}
-						},
-						{
-							"_type": "FCFlow",
-							"_id": "AAAAAAF8+ndnlI2Pi/c=",
-							"_parent": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
-							},
-							"name": "Prowizja",
-							"source": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
-							},
-							"target": {
-								"$ref": "AAAAAAF8+nZQX418ziA="
-							}
-						},
-						{
-							"_type": "FCFlow",
-							"_id": "AAAAAAF8+ohVLY2ummo=",
-							"_parent": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
-							},
-							"name": "Raporty",
-							"source": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
-							},
-							"target": {
-								"$ref": "AAAAAAF8+nZQX418ziA="
-							}
-						},
-						{
-							"_type": "FCFlow",
-							"_id": "AAAAAAF8+onKWI2+A9w=",
-							"_parent": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
-							},
-							"name": "Ewidencja użytkowników",
-							"source": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
-							},
-							"target": {
-								"$ref": "AAAAAAF8+nZQX418ziA="
-							}
-						},
-						{
-							"_type": "FCFlow",
-							"_id": "AAAAAAF8+orO1o3KluY=",
+							"_id": "AAAAAAF9KAFGlBsNBCQ=",
 							"_parent": {
 								"$ref": "AAAAAAF80kHuOLlBnLg="
 							},
@@ -5450,12 +5394,40 @@
 								"$ref": "AAAAAAF80kHuOLlBnLg="
 							},
 							"target": {
-								"$ref": "AAAAAAF80kLzKblOrBI="
+								"$ref": "AAAAAAF9KADVIBr/CWQ="
 							}
 						},
 						{
 							"_type": "FCFlow",
-							"_id": "AAAAAAF8+pGtuo3x2dI=",
+							"_id": "AAAAAAF9KAVHTRuJVvI=",
+							"_parent": {
+								"$ref": "AAAAAAF80kHuOLlBnLg="
+							},
+							"name": "Prowizja",
+							"source": {
+								"$ref": "AAAAAAF80kHuOLlBnLg="
+							},
+							"target": {
+								"$ref": "AAAAAAF9KARncRtXpL8="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF9KAV6BBuUxq0=",
+							"_parent": {
+								"$ref": "AAAAAAF80kHuOLlBnLg="
+							},
+							"name": "Raporty",
+							"source": {
+								"$ref": "AAAAAAF80kHuOLlBnLg="
+							},
+							"target": {
+								"$ref": "AAAAAAF9KARncRtXpL8="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF9KA1vBhuhX6k=",
 							"_parent": {
 								"$ref": "AAAAAAF80kHuOLlBnLg="
 							},
@@ -5464,97 +5436,35 @@
 								"$ref": "AAAAAAF80kHuOLlBnLg="
 							},
 							"target": {
-								"$ref": "AAAAAAF8+nZQX418ziA="
-							}
-						}
-					]
-				},
-				{
-					"_type": "FCAlternateProcess",
-					"_id": "AAAAAAF80kLzKblOrBI=",
-					"_parent": {
-						"$ref": "AAAAAAF8jh2IfKhLE7s="
-					},
-					"name": "Klient",
-					"ownedElements": [
-						{
-							"_type": "FCFlow",
-							"_id": "AAAAAAF80kidHLl/vo4=",
-							"_parent": {
-								"$ref": "AAAAAAF80kLzKblOrBI="
-							},
-							"name": "Dane klienta",
-							"source": {
-								"$ref": "AAAAAAF80kLzKblOrBI="
-							},
-							"target": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
+								"$ref": "AAAAAAF9KARncRtXpL8="
 							}
 						},
 						{
 							"_type": "FCFlow",
-							"_id": "AAAAAAF80kl9hLma0pI=",
+							"_id": "AAAAAAF9KA7DxBvSzTw=",
 							"_parent": {
-								"$ref": "AAAAAAF80kLzKblOrBI="
+								"$ref": "AAAAAAF80kHuOLlBnLg="
 							},
-							"name": "Rejestracja aukcji",
+							"name": "Dane aukcji",
 							"source": {
-								"$ref": "AAAAAAF80kLzKblOrBI="
+								"$ref": "AAAAAAF80kHuOLlBnLg="
 							},
 							"target": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
+								"$ref": "AAAAAAF9KA4DRxu81WI="
 							}
 						},
 						{
 							"_type": "FCFlow",
-							"_id": "AAAAAAF8+mleS45iaww=",
+							"_id": "AAAAAAF9bGQSaaex244=",
 							"_parent": {
-								"$ref": "AAAAAAF80kLzKblOrBI="
+								"$ref": "AAAAAAF80kHuOLlBnLg="
 							},
-							"name": "Rejestracja depozytu",
+							"name": "Kwota premii",
 							"source": {
-								"$ref": "AAAAAAF80kLzKblOrBI="
+								"$ref": "AAAAAAF80kHuOLlBnLg="
 							},
 							"target": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
-							}
-						},
-						{
-							"_type": "FCFlow",
-							"_id": "AAAAAAF8+ouyiI3ZqC0=",
-							"_parent": {
-								"$ref": "AAAAAAF80kLzKblOrBI="
-							},
-							"name": "Kategorie",
-							"source": {
-								"$ref": "AAAAAAF80kLzKblOrBI="
-							},
-							"target": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
-							}
-						}
-					]
-				},
-				{
-					"_type": "FCAlternateProcess",
-					"_id": "AAAAAAF80kMvJblY7tM=",
-					"_parent": {
-						"$ref": "AAAAAAF8jh2IfKhLE7s="
-					},
-					"name": "Pracownik",
-					"ownedElements": [
-						{
-							"_type": "FCFlow",
-							"_id": "AAAAAAF80kd/hLlx/I8=",
-							"_parent": {
-								"$ref": "AAAAAAF80kMvJblY7tM="
-							},
-							"name": "Dane pracownika lub asystenta",
-							"source": {
-								"$ref": "AAAAAAF80kMvJblY7tM="
-							},
-							"target": {
-								"$ref": "AAAAAAF80kHuOLlBnLg="
+								"$ref": "AAAAAAF9KA4DRxu81WI="
 							}
 						}
 					]
@@ -6039,12 +5949,102 @@
 					]
 				},
 				{
-					"_type": "FCTerminator",
-					"_id": "AAAAAAF8+nZQX418ziA=",
+					"_type": "FCProcess",
+					"_id": "AAAAAAF9KADVIBr/CWQ=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Klient",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF9KAF/9xsYTPM=",
+							"_parent": {
+								"$ref": "AAAAAAF9KADVIBr/CWQ="
+							},
+							"name": "Kategorie",
+							"source": {
+								"$ref": "AAAAAAF9KADVIBr/CWQ="
+							},
+							"target": {
+								"$ref": "AAAAAAF80kHuOLlBnLg="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF9KAJgwBsmDcU=",
+							"_parent": {
+								"$ref": "AAAAAAF9KADVIBr/CWQ="
+							},
+							"name": "Rejestracja depozytu",
+							"source": {
+								"$ref": "AAAAAAF9KADVIBr/CWQ="
+							},
+							"target": {
+								"$ref": "AAAAAAF80kHuOLlBnLg="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF9KALclBs2XE4=",
+							"_parent": {
+								"$ref": "AAAAAAF9KADVIBr/CWQ="
+							},
+							"name": "Dane klienta",
+							"source": {
+								"$ref": "AAAAAAF9KADVIBr/CWQ="
+							},
+							"target": {
+								"$ref": "AAAAAAF80kHuOLlBnLg="
+							}
+						},
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF9KAOHgBtG0ao=",
+							"_parent": {
+								"$ref": "AAAAAAF9KADVIBr/CWQ="
+							},
+							"name": "Rejestracja aukcji",
+							"source": {
+								"$ref": "AAAAAAF9KADVIBr/CWQ="
+							},
+							"target": {
+								"$ref": "AAAAAAF80kHuOLlBnLg="
+							}
+						}
+					]
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF9KARncRtXpL8=",
 					"_parent": {
 						"$ref": "AAAAAAF8jh2IfKhLE7s="
 					},
 					"name": "Dom Aukcyjny"
+				},
+				{
+					"_type": "FCProcess",
+					"_id": "AAAAAAF9KA4DRxu81WI=",
+					"_parent": {
+						"$ref": "AAAAAAF8jh2IfKhLE7s="
+					},
+					"name": "Pracownik",
+					"ownedElements": [
+						{
+							"_type": "FCFlow",
+							"_id": "AAAAAAF9KA4+ixvHNrM=",
+							"_parent": {
+								"$ref": "AAAAAAF9KA4DRxu81WI="
+							},
+							"name": "Dane pracownika",
+							"source": {
+								"$ref": "AAAAAAF9KA4DRxu81WI="
+							},
+							"target": {
+								"$ref": "AAAAAAF80kHuOLlBnLg="
+							}
+						}
+					]
 				}
 			]
 		},
@@ -6118,7 +6118,7 @@
 									"left": 122,
 									"top": 146,
 									"width": 125,
-									"height": 13,
+									"height": 26,
 									"text": "1 - Rejestracja klientów",
 									"wordWrap": true
 								}
@@ -6592,7 +6592,7 @@
 									"left": 258,
 									"top": 242,
 									"width": 101,
-									"height": 13,
+									"height": 26,
 									"text": "1.1 - Dodaj klienta",
 									"wordWrap": true
 								}
@@ -6676,7 +6676,7 @@
 									"left": 258,
 									"top": 386,
 									"width": 101,
-									"height": 13,
+									"height": 26,
 									"text": "1.3 - Usuń klienta",
 									"wordWrap": true
 								}
@@ -6842,7 +6842,7 @@
 									"left": 1978,
 									"top": 322,
 									"width": 125,
-									"height": 13,
+									"height": 26,
 									"text": "7.2 - Wyslanie raportu",
 									"wordWrap": true
 								}
@@ -8393,6 +8393,14 @@
 					"name": "4.4 - Szukaj pracownika"
 				}
 			]
+		},
+		{
+			"_type": "UMLCollaboration",
+			"_id": "AAAAAAF9KBLrchw+cTg=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Collaboration1"
 		}
 	],
 	"documentation": "Dom Aukcyjny postanowił usprawnić swoja działalność poprzez wprowadzenie systemu komputerowego. System ten ma ułatwić prowadzenie ewidencji pracowników, klientów Domu i aukcji, które się odbyły, jak również wszystkich zgłoszonych do licytacji przedmiotów i dóbr (tzw. depozytów).\n\nSystem ma przechowywać daty i adresy wszystkich aukcji, które prowadził Dom. Zapamiętuje się, który pracownik prowadził licytacje (otrzymuje on za to dodatkowa, jednorazową premie, nie większą niż 50% zasadniczego wynagrodzenia) oraz wszystkich pracowników, którzy go wspomagali (zawsze przynajmniej jedna osoba, np.: przy demonstracji depozytów lub udzielaniu wyjaśnień).\n\nNa aukcji dokonuje się licytacji jednego lub więcej zgłoszonych depozytów. Dom Aukcyjny prowadzi aukcje dowolnego rodzaju dóbr. Choć zazwyczaj są to dzieła sztuki. Z punktu widzenia Domu najważniejsza jest wartość prowizji, jaką otrzyma po udanej sprzedaży. Zapamiętywany jest również klient, który zgłosił przedmiot do licytacji, wartość depozytu (podana przez klienta na wypadek np.: kradzieży lub zniszczenia, w celu wypłaty odszkodowania) oraz jego cena wywoławcza. W przypadku braku chętnych na depozyt może on być wystawiany wielokrotnie (na innych licytacjach - na każdej może być inna cena wywoławcza). W przypadku sprzedaży depozytu zapamiętywana jest cena i dane klienta który go nabył ."
